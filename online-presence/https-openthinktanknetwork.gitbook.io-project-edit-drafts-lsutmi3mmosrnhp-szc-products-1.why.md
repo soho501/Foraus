@@ -1,7 +1,3 @@
----
-description: A resource for the Open Think Tank Network
----
-
 # Website Building Blocks
 
 ## Summary

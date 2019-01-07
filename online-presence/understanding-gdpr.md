@@ -1,7 +1,3 @@
----
-description: A briefing for the Open Think Tank Network
----
-
 # Understanding GDPR
 
 ## What is GDPR?
