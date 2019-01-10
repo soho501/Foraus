@@ -1,9 +1,13 @@
+---
+description: A resource for the Open Think Tank Network
+---
+
 # Website Building Blocks
 
 ## Summary
 
-For new think tanks in our network, OTTN is providing a ‘starter website’, which is the basic technology and structure to have a basic web presence. However, a website comprises more than just technology – there are a range of common pieces of content that need to be included, such as privacy policies.  
-Unfortunately, the requirements vary somewhat country by country – as to the languages. As such, we are unable to produce exact text that can be copied into each section. However, in this resource we have pulled together what these elements are and described what they commonly contain. We have also linked to external resources and samples that you might be able to build from.
+For new think tanks in our network, OTTN is providing a ‘starter website’, which is the basic technology and structure needed to have a basic web presence. However, a website comprises more than just technology – there are a range of common pieces of content that need to be included, such as privacy policies.  
+Unfortunately, the requirements vary somewhat from country to country – as do the languages. As such, we are unable to produce exact text that can be copied into each section. However, in this resource we have pulled together what these elements are and described what they commonly contain. We have also linked to external resources and samples that you might be able to build from.
 
 ## Think Tank Description 
 
@@ -57,9 +61,9 @@ Increasingly, think tanks are **blurring the line** between blogs, briefings and
 
 These **challenges of PDFs**, along with the explosion of the smartphone and tablets, have led think tanks to explore more **digitally-native options**, especially keeping content in **HTML format** on the Webpages themselves. This also allows for **responsive content** and embedding **interactive** items like videos and charts.
 
-This convergence partly explains why we’ve only developed **one type of ‘content’** for the starter website, which we’ve called **‘publications’** but you may want to call something similar, like ‘articles’.
+This convergence partly explains why we’ve only developed **one type of ‘content’** for the starter website, which we’ve called **‘publications’** but you may want to call it something similar, like ‘articles’.
 
-It is worth noting that there is good research, showing that people read in and engage with the digital environment differently than with paper outputs. A few **tips** are:
+Moreover, there has been qualitative research, confirming that people actually read in and engage with the digital environment differently than with paper outputs. A few **tips** are:
 
 * _People tend to skim more on the web_ – break up text with headings and subheadings \(e.g. &lt;h2&gt; and &lt;h3&gt; tags in html\) and use bullet lists to call attention to key information.
 * For a similar reason, it’s helpful to keep paragraphs short – maybe just two or three sentences even. This helps break up the text and help people jump to what they are looking for.
@@ -84,8 +88,6 @@ For grassroots think tanks in particular, it is important to ensure that potenti
 The answers to these questions will help you decide what to include in this section. Please note, that once you start collecting personal information about people, you will need to make sure that you are doing so in a GDPR-compliant way \(see our [GDPR briefing ](understanding-gdpr.md)and the privacy policy section below\).
 
 It is likely that you will need to use a third-party service to help you to manage subscriptions and newsletters. We have suggested for newsletters using [Mailchimp](http://www.mailchimp.com) or [Campaign Monitor](http://www.campaignmonitor.com). For events, we have embedded ticketing and event management in the website itself, but [Eventbrite](http://www.eventbrite.com) is another useful online events management tool. Part of the wider project with Larix is helping to create a member management platform, known as a CRM. More information will be available when we have it.
-
-### Examples/ Resources:
 
 ### 
 
@@ -115,11 +117,11 @@ Generally, a privacy policy should outline:
 
 ### Information
 
-_Cookies are little pieces of information that websites store on a user’s device_ to allow them to have a seamless experience. They help with everything from logging in and creating user ‘sessions’ to making sure a search function works throughout the website. They can also track users across websites – for example, Google or Facebook might be installed on any number of websites that you visit so Facebook knows what sort of pages you are visiting. For our websites, the most common cookies will likely be from Google Analytics, but if there are any third-party plugins \(like installing Facebook Pixel, or displaying Twitter posts on your page\), they often also contain their own cookies.
+_Cookies are little pieces of information that websites store on a user’s device_ that allows them to have a seamless experience. They help with everything from logging in and creating user ‘sessions’ to making sure a search function works throughout the website. They can also track users across websites – for example, Google or Facebook might have installed  cookies on a number of websites that you visit, so Facebook knows what sort of pages you are visiting. For our websites, the most common cookies will likely be from Google Analytics, but if there are any third-party plugins \(like installing Facebook Pixel, or displaying Twitter posts on your page\), they often also contain their own cookies.
 
 Because of these privacy concerns, in 2011 the EU brought into effect a directive that is now commonly referred to as the **‘EU cookie law’**. This directive effectively states that websites must notify users of any cookies that they use on their website. This is why for the last five years most websites have a **pop-up cookie notification.**
 
-There are **two parts** to this notification. One is a simple mechanism that allows for users to _**accept the use**_ of cookies – this usually appears as a banner on a website with a button to accept cookies/dismiss the banner. The other is a deeper explanation of _**what the cookies do**_ – this can appear as a separate page on your website, but it often appears in combination with the privacy policy.
+There are **two parts** to this notification. One is a simple mechanism that allows users to _**accept the use**_ of cookies – this usually appears as a banner on a website with a button to accept cookies/dismiss the banner. The other, is a deeper explanation of _**what the cookies do**_ – this can appear as a separate page on your website, but it often appears in combination with the privacy policy.
 
 In principle, the new GDPR requires that users specifically opt-in to installing cookies. This means that banners that use wording like ‘Continuing to use this website indicates that you accept cookies’ will no longer be valid. To dismiss the banner, you should have to ‘accept’ the cookies. But to be fully compliant, in principle you should be able to choose which cookies are turned on and off. This might be technically challenging – and anyway, it’s not clear how this will be enforced, but it’s something to be aware of.
 
@@ -195,11 +197,11 @@ For example, [Terms Feed](https://termsfeed.com/blog/sample-terms-and-conditions
 
 ### Information
 
-Accessibility statements are not a legal requirement, but many organisations choose to have them. They are statements that explain how you have made accommodations for users who are maybe less able to use your website.
+Accessibility statements are not a legal requirement, but many organisations choose to have them. They are statements that explain how you have made accommodations for users who are maybe less capable in using your website.
 
-For example, this can be a place to describe the standards that you have maintained, but you can also use it to explain how to make information on your site more visible \(e.g. through changing the size of the font\). Additionally, if there are special considerations you have made, like making PDFs also available in as flat html files to help screen readers for the sight-impaired, it is good to mention it here.
+For example, this can be a place to describe the standards that you have maintained, but you can also use it to explain how to make information on your site more visible \(e.g. through changing the size of the font\). Additionally, if there are special considerations you have made, like making PDFs also available as flat html files to help screen readers for the sight-impaired, it is good to mention it here.
 
-There are clear [Web Accessibility Guidelines](https://www.w3.org/standards/webdesign/accessibility) that most websites adhere to across the web. We have made sure that the ‘starter website’ template meets [WCAG 2.0 AA guidelines](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) – but it is your responsibility to maintain those standards as you add new content to your website. As a general rule for accessibility, you should make sure that images have clear descriptions of what they contain in their ‘alt’ tag. You may also want to make sure all of your videos have subtitles.
+There are clear [Web Accessibility Guidelines](https://www.w3.org/standards/webdesign/accessibility) that most websites adhere to across the web. We have made sure that the ‘starter website’ template meets [WCAG 2.0 AA guidelines](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) – but it is your responsibility to maintain those standards, as you add new content to your website. As a general rule for accessibility, you should make sure that images have clear descriptions of what they contain in their ‘alt’ tag. You may also want to make sure all of your videos have subtitles.
 
 ### Examples/ Resources
 

@@ -1,3 +1,7 @@
+---
+description: A briefing for the Open Think Tank Network
+---
+
 # Understanding GDPR
 
 ## What is GDPR?
@@ -7,7 +11,7 @@
 
 ## What are the core principles of the GDPR?
 
-Broadly, the GDPR’s approach is to suggest that organisations only collect data that they really need \(privacy by default\), and when they do collect that information to ensure that it is stored as securely as possible \(privacy by design\). It also extends the rights of individuals to understand how their information is being used and to specifically opt-in to those uses. Users also have the right to access the information held about them, to correct information held about them, and to have that information deleted.
+Broadly, the GDPR’s approach is to suggest that organisations only collect data that they really need \(privacy by default\), and when they do collect that information, to ensure that it is stored as securely as possible \(privacy by design\). It also extends the rights of individuals to understand how their information is being used and to specifically opt-in to those uses. Users also have the right to access the information held about them, to correct information held about them, and to have that information deleted.
 
 
 

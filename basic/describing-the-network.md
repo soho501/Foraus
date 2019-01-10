@@ -1,3 +1,9 @@
+---
+description: >-
+  There is standard text that we have developed to describe our network of
+  grassroots think tanks. Please use this statement below.
+---
+
 # Describing the Network
 
 ## _Short Description_

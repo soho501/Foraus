@@ -1,3 +1,9 @@
+---
+description: >-
+  Mailchimp is a practical CRM system to improve your think tanks digital
+  infrastructure and it handles all your mailings.
+---
+
 # Mailchimp User Guide
 
 ## Summary

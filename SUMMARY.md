@@ -5,7 +5,7 @@
 ## Basic
 
 * [The foraus Model](basic/the-foraus-model.md)
-* [How to Start-Up a Think Tank](basic/start-think-tank.md)
+* [How to Start-Up a Think Tank](basic/1..md)
 * [Describing the Network](basic/describing-the-network.md)
 
 ## Online Presence
@@ -13,13 +13,15 @@
 * [Website Building Blocks](online-presence/https-openthinktanknetwork.gitbook.io-project-edit-drafts-lsutmi3mmosrnhp-szc-products-1.why.md)
 * [Understanding GDPR](online-presence/understanding-gdpr.md)
 * [Mailchimp User Guide](online-presence/mailchimp-user-guide.md)
+* [Communication](online-presence/communication.md)
 
 ## Products
 
-* [How to Organise Events](products/1.why.md)
+* [Organising Events](products/1.why.md)
+* [Publications](products/publications.md)
 
 ## Strategies
 
 * [The Art of Networking](strategies/the-art-of-networking.md)
-* [How to Fundraise](strategies/how-to-fundraise.md)
+* [Fundraising](strategies/how-to-fundraise.md)
 
