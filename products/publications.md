@@ -245,7 +245,11 @@ _The fun begins after the Publication! It is Promotion time!_
 
 #### Newsletter
 
-#### Social Media
+**Press Release**
+
+**Mailings** 
+
+#### Social Media 
 
 #### Press Conference
 

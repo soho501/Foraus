@@ -95,8 +95,8 @@ Google Suit are google's intelligent apps. It is much more than just handling em
 ### Podcasts
 
 * Podcasts, like videos, can reveal information and ideas in a fresh and atypical style. 
-* A podcast is targeted at a broad audience, since it is best uploaded on Youtube, Soundcloud, or/and Itunes. Hence the language used must be clear and to the point -realising, since it cannot rely on visuals.
-* Podcasts should be short and clear -possibly working best for opinion/blogs and policy briefs- and no longer than 5 min. They should help promote a publication, where the listener can access more information about the subject, if wished. The podcast can be longer if it is a conversation with a specific expert. 
+* A podcast is targeted at a broad audience, since it is best uploaded on Youtube, Soundcloud, or/and iTunes. Hence the language used must be clear and to the point -realising, since it cannot rely on visuals.
+* We provide knowledge on how to do [Podcasts](../products/podcasts.md), in the products section. 
 
 ### Wikipedia
 
