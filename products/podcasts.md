@@ -22,13 +22,13 @@ Is a podcast that includes a host and a guest that have an interview style conve
   * Prepared research on topic and interviewee
   * An Interviewee\(s\)
   * Flowing content
-  * Tools: A computer and a microphone.
+  * Tools: a computer and a microphone.
 
 *  **Advantages:** 
 
   * Fans of your guest will likely listen into it
-  * It provides a variety due to tapping into the experience and expertise of a new person 
-  * It is low-cost
+  * It provides a variety since it taps into the experience and expertise of a new person 
+  * Low-cost
   * You can do it anywhere
 
 * **Disadvantages:**
@@ -52,6 +52,7 @@ This style is often used by people who have expertise they want to share with an
 
   * Work to your schedule
   * Easy to edit
+  * Low-cost
   * Easy to establish it
   * Control over the content
 
@@ -72,7 +73,7 @@ This usually consists of a host and then a number of rotating guests.
   * Good moderator 
   * Interviewees with different perspective 
   * Flowing content
-  * Tools:  A computer, microphones, a space for the guests, and a camera ****
+  * Tools:  a computer, microphones, a space for the guests, and a camera ****
 
   \*\*\*\*
 
@@ -102,11 +103,11 @@ The set up is a various people \(2+\), sitting around, and having a recorded con
   * One moderator/anchor on the show
   * Flowing content
   * All co-hosts have the needed knowledge
-  * Tools: a computer, microphones, camera, and a space
+  * Tools: a computer, microphones, camera, and room space
 
 * **Advantages**: 
 
-  * Fans and Hosts favourite style due to it the feel of "catching up with friends"
+  * Fans and Hosts favourite style due to the feel of "catching up with friends"
   * Two or three heads are better than one - all equal pressure for content
   * Low-cost
   * Low work on research for content and interviewees
@@ -193,17 +194,17 @@ Therefore, think about your optimal listener and what you have to offer them— 
 
 #### 4. Figure out your Format/Style
 
-Every podcast has a **specific** **format**, whether it varies sometimes or not. You should beforehand identify what your style is going to be. There are so many different way you could style your show \(as listed above\), you just need to see what format works best for you, your motives, and your Think Tank.
+Every podcast has a **specific** **format**, whether it varies sometimes or not. You should beforehand identify what your style is going to be. There are many different ways you could style your show \(as listed above\), you just need to see what format works best for you, your motives, and your Think Tank.
 
 #### 5. Decide on a Name
 
 The name of your podcast should reflect your style and focus as well as give the audience an idea of what for topics and subjects you will be talking/discussing about. 
 
-When you’ve found a **catchy** **and** **reflective** **name** that you like, first research on podcast platforms if the name is not being used already and to guarantee there aren’t others that sound very similar.
+When you’ve found a **catchy** **and** **reflective** **name** that you like, first research on podcast platforms if the name is not being used already and to guarantee there aren’t others that sound highly similar.
 
 #### 6. Importance of the Intros & Outros
 
-While you should not write down a script or specific guideline on what to say during your show, since it should sound natural and easy going, you should have a **good plan on what you will say during your intros and outros** - so you will not forget any necessary detail you should mention. Since, the intro should generally entail a brief rundown on what to expect during the show, as well as a brief personal introduction of you and your guests \(if applicable\). Whereas, the outros could entail a teaser for whats to come and  entail a reminder to share the content— these things would make your audience increase.
+While you should not write down a script or specific guideline on what to say during your show, since it should sound natural and easy going, you should have a **good plan on what you will say during your intros and outros** - so you will not forget any necessary detail you should mention. Since, the intro should generally entail a brief rundown on what to expect during the show, as well as a brief personal introduction of you and your guests \(if applicable\). Whereas, the outros could entail a teaser for whats to come and  entail a reminder to share the content— these points would make your audience increase.
 
  They should present as a thread, which links each episode together. For instance, the intro could welcome the audience \(a specific catch phrase\) as well as introduce the topic and the guests, while the outro remind the audience to like, share, comment, and share their opinion on the topic discussed. Possibly also to contribute to a specific workshop or even to subscribe to your newsletter, that depends on your style and format. 
 
@@ -217,7 +218,7 @@ Therefore, as a Think Tank, it should probably be **your** **logo**.
 
 **The necessary essentials:** 
 
-* A microphone
+* Microphone\(s\)
 * Headphones
 * A compressor \(more qualitative\)
 * A mixer \(if there are many hosts/guests involved\)
