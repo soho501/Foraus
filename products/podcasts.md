@@ -2,9 +2,13 @@
 
 ## Summary
 
-Podcasts, like videos, can reveal knowledgeable information and ideas in a fresh and atypical style, since it tends to be targeted at a broad audience. Not everyone listens to podcasts, but it has been becoming increasingly popular. According to the Reuters Institute’s latest Digital News Report, more than a third of the survey respondents from 22 countries have listened to a podcast in the month preceding the survey. Where 6, from the 11 highest, are from European countries. It is particularly popular among younger audiences and digital natives, where the average listeners are between the age 20-50.  
+Podcasts, like videos, can reveal knowledgeable information and ideas in a fresh and atypical style, since it tends to be targeted at a broader audience. Not everyone listens to podcasts, but it has been becoming increasingly popular. According to the Reuters Institute’s latest Digital News Report, more than a third of the survey respondents from 22 countries have listened to a podcast in the month preceding the survey. Where 6, from the 11 highest, are from European countries. It is particularly popular among younger audiences and digital natives, where the average listeners are between the age 20-50.  
+
+So, you have now decided to start doing podcasts? But don't know where to start;  well, this document aims to provide knowledge on the different podcast styles and how to develop a podcast as well as how to publish it. Any information you need to start your own Podcast show or series!
 
 ## Styles of Podcasts
+
+There are thousands of different Podcast styles and formats, people constantly come up with new ways to  form their shows. However, the list below explains the most suitable ones for Think Tanks.
 
 ### The Interview Show
 
@@ -159,7 +163,7 @@ This is a **mixture** **of** **the** **previous styles,** where you can be creat
   * Time-consuming
   * Can have the disadvantages of the styles you chose
 
-And here you have it! The different styles of Podcasts. There are many more styles and formats of Podcasting, yet those are the best suitable ones for Think Tanks. 
+  
 
 ## How to develop a Podcast
 
@@ -228,7 +232,7 @@ You should first have **people** **review** **it**, before putting it on the int
 
 #### Where and How do you upload your Podcast?
 
-You do not have to create your own WordPress site to place your Podcast audio files. You can upload it to the Itunes Podcast or/and on soundcloud. You can also create an account on Libsyn, which is a service that allows you to publish your shows easily on places like iTunes and provides you with links for sharing your content as well as shows you analytics on how your show is performing. Podcaster is a similiar  german version of Libsyn \(US\). 
+You do not have to create your own WordPress site to place your Podcast audio files. You can upload it to the Itunes Podcast or/and on soundcloud. You can also create an account on Libsyn, which is a service that allows you to publish your shows easily on places like iTunes and provides you with links for sharing your content as well as shows you analytics on how your show is performing. Podcaster is a similar  German version of Libsyn \(US\). 
 
 #### Resources: 
 
