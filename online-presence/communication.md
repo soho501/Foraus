@@ -110,9 +110,27 @@ Google Suit are google's intelligent apps. It is much more than just handling em
 
 ## Media
 
+### **Network**
+
+It is important to establish a contact base with journalists and media outlets. One needs a connection with journalists in order to get your think tank and publication mentioned in the press. Therefore it is important to start networking with people who work in the media. For more information on how to network, click [here](../strategies/the-art-of-networking.md). 
+
+### **Mailings**
+
+A communication method to keep the media in the loop of your upcoming events and publications is to do personal mailings. Nurturing your journalist contacts is significant, thus when a publication or an event suits to their content and is momentous, you should compactly and visually send them the invitation for the event and/or publication. For more on mailings, click [here](../products/publications.md#mailings). 
+
+### **Press Conference/ Events**
+
+Once you have established a network with media outlets, you can organise Press conferences or special events for journalists on your publication\(s\). However, you need to strategically see what publication journalists would be interested in. It should be a current ongoing momentous topic that is related to the political situation and stance. For more information on press conference, click [here](../products/publications.md#press-conference). 
 
 
-## CI Design?
+
+### Resources
+
+* [Communication options for think tanks: channels and tools](https://onthinktanks.org/articles/communication-options-for-think-tanks-channels-and-tools/#)
+* [Using digital communications to connect at a human level for maximum impact](https://onthinktanks.org/articles/using-digital-communications-to-connect-at-a-human-level-for-maximum-impact/)
+* [Strategic communications for think tanks: Reflections from a webinar series](https://www.researchtoaction.org/2014/05/working-with-webinars-gained-experience/)
+
+
 
 
 

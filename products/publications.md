@@ -8,17 +8,17 @@ This document aims to answer these main questions and and therefore help your th
 
 ## Authors
 
-### Recruitment
+### Recruitment:
 
-### Communication
+### Blog
 
-## Blog 
+A blog is a platform for controversial discussion contributions. The contributions published on a blog reflect the personal opinions of the authors and do not necessarily correspond to the attitude of the association. Therefore, anyone who wants to write a blog post and has knowledgeable information to share, can. You can decide how academic or/and journalistic you want the blog articles to be.
 
-A think tank blog presents a way to share and present new research and events. It can be the central channel to publish opinions and reading lists as well as highlighting new videos, podcasts, and other multimedia produced by the think tank. Another option is to give some researchers/ experts to keep their own blogs and publish some posts on the think tanks website or blog. 
+You could ideally set a guide for authors who want to write a blog for your Think Tank.
 
-The Blog should be linked to other digital media tools, for instance; the website, Facebook, Twitter, etc., so that a post would immediately be updated on all services.
+_**A Template example:**_
 
-### Before writing
+#### Before writing
 
 _Check, whether you are able to:_
 
@@ -28,7 +28,7 @@ _Check, whether you are able to:_
 
 **If yes, go for it!**
 
-### **While Writing**
+#### **While Writing**
 
 _There are five rules of thumb:_
 
@@ -40,11 +40,83 @@ _There are five rules of thumb:_
 
 \*See below for how to write a Blog Post. 
 
-### After Writing
+#### After Writing
 
-* Allow a colleague to _**review it**_
-* _**Post on Social Media & Website -**_ The editorial staff and your office should post the article on your Website, Facebook page, and on Twitter. Also encourage the writer of the Blog to share it on their personal social media pages, in order to enhance the awareness to the maximum. 
+* Allow colleagues to _**review it**_
+* Email your text and information about you \(age, profession, etc. plus portrait\) to \(name of your Think Tank\)
+* The editorial staff will contact you and publish the text.
+
+#### **Publication**
+
+* _**Post on Social Media & Website -**_ The editorial staff will post the article on their Website, Facebook page, and on Twitter. Also encourage the writer of the Blog to share it on their personal social media pages, in order to enhance the awareness to the maximum. 
 * _**Comments on Platforms -**_ Encourage friends, colleges, and generally people to make use of the comment section on the platforms, to enhance the promotion and discussion on the topic. 
+
+### Discussion Paper/Policy Brief
+
+#### How to recruit authors?
+
+Writing policy papers/ briefs are the main tasks of a think tank, thus recruiting the right authors for the right topics is crucial. There are several ways to find the right experts to write the publications.
+
+**Events:** Organising events and workshops to find interested and knowledgeable authors are a great way to start your search. 
+
+_An example template:_
+
+* _**Policy Lab event:**_
+
+  1. Application phase: Where you state that academics, young enthusiasts and experts  \(on the given topics\) apply to participate in the Policy Lab event.
+  2. The Kick off: All selected participants meet for the first meeting, brainstorming, team building and define the question they will work on during the Policy Lab event.
+  3. During the event: Participants work together with experts on innovative policy proposals and are trained in pitching and constructive feedback. In the evening there would be opportunities for networking and interdisciplinary exchange.
+  4. Follow Up \(up-coming months\): the teams are accompanied through the writing, review and publication process by experts and your think tank.
+
+  The target audience would for instance be  young practitioners, academics and enthusiasts, who would develop the most innovative and effective policy recommendations. 
+
+**Program Leader:** Once your think tank has the programs set up and a program leader for each topic; they are supposed to find and recruit authors/ experts on the given question/topic. The main criteria that should count is their knowledge and expertise on the topic and their writing skills. 
+
+#### Authors role in the Publication Process
+
+Launching a paper or policy brief is the most important stage of writing for think tanks, as they want the authors ideas to have the biggest impact possible. Hence, it is important that the Communications Department works closely with the authors. Therefore, the writers should answer the following questions, so you \(your think tank\) can organise a good launch with an even better impact.
+
+_**A template for authors: Launch of Publications**_
+
+| **Messaging** |  |
+| :--- | :--- |
+| What is the core message of my paper? | E.g. 4 ways of how Switzerland's trade policy can be more effectively |
+| How does this messaging fit into the current political context? |  |
+
+| **Goals** |  |
+| :--- | :--- |
+| What is the supposed goal of the publication? | E.g. Raise awareness, law amendment |
+
+| **Target audience** |  |
+| :--- | :--- |
+| Who are my target audiences? |  |
+| How do I want to reach them? Are there different approaches for different audiences? |  |
+| Who are the political stakeholders? |  |
+| Can I meet beforehand with stakeholders to pave the way? |  |
+
+| **Tactics** |  |
+| :--- | :--- |
+| Do I want to have a launch event? |  |
+| If yes, what kind of event? | E.g. Classic press conference,  or something more innovative like flash mob |
+
+| **Social media** |  |
+| :--- | :--- |
+| Is there any particular information that could be suitable for a social media campaign? | E.g. 10 arguments for / against something |
+
+### Communication
+
+* The best communication tools are through email and telephone, since the authors do not necessarily live or work in the same city. 
+* There are specific ways to communicate with authors in order to keep their motivation up as they do it voluntarily. Here are some tips: 
+  * Have an equal balance between pressure and praise when communicating. 
+  * Write extremely nice and polite emails.
+  * Take away any administrative tasks; their only task should be to write the content. 
+  * Organise an event 2-4 times a year for all the authors as a reward for their work and contribution. - For instance: foraus organises a retreat twice a year for all authors, program and regional groups, board members, and all interns and workers of their think tank come together for a weekend to meet, have discussions, meetings, and some fun together.  
+
+## Blog 
+
+A think tank blog presents a way to share and present new research and events. It can be the central channel to publish opinions and reading lists as well as highlighting new videos, podcasts, and other multimedia produced by the think tank. Another option is to give some researchers/ experts to keep their own blogs and publish some posts on the think tanks website or blog. 
+
+The Blog should be linked to other digital media tools, for instance; the website, Facebook, Twitter, etc., so that a post would immediately be updated on all services.
 
 #### Blog Post Guide Template
 
@@ -239,23 +311,70 @@ The Board and Management then coordinates the internal review based on the 2nd v
 
 **Output:** The final version of the Discussion Paper/ Policy Brief \(incl. Formats and Graphics\). 
 
-## Promotion
+### Promotion
 
 _The fun begins after the Publication! It is Promotion time!_
 
 #### Newsletter
 
-**Press Release**
+* Newsletters are the perfect place to promote your Blogs and Publications, since they are send out internally and externally. They are ideally send to all members, program groups, and all people who sign up for it. The newsletter has a wide diverse audience. 
+* The newsletter should be edited to include the newest publications, blog posts, and events.
+* More about [Emailed Newsletters](../online-presence/communication.md#emailed-newsletter) on the communication knowledge product.
 
-**Mailings** 
+**Format Template**
+
+1. The NL should be short and visually pleasing
+2. Begin with a short summary, an edito with the most important information
+3.  Information on the community of your TT, incl. short summaries on each publication, news, and events
+4. A visual link to all the Blog posts
+5. Your think tank in the Media
+6. Hyperlinks to all the Publications
+7. A calendar with all your upcoming events
+
+#### Op-eds
+
+* Op-eds or \(a\) column\(s\) in a national or local newspaper allows your think tank to share an idea or debate with minimal impedance from journalists or media editors. It can be an influential method in reaching a broad audience and support in developing the medias agenda, which can have an abundant impact on the agenda of the public. 
+* The op-eds are supposed to encompass a wide but rather informed or/and educated audience. Their knowledge of an issue or their stance on it can and will heavily rely on the publication itself; thus taking this into account when conducting them. 
+* All around these are short \(most likely shorter than an opinion or blog entry\) pieces that set forward an informed assessment in an interesting and 'punchy' manner. Publications and the media would generally want op-eds/columns that can provoke a discussion or a response from their audience. Hence, not every publication is suitable for doing op-ed as their promotion.
+
+#### **Mailings** 
+
+* Personal, yet formal emails that are sent to journalists and stakeholders, which include the significant up-coming events and publications.
+* However, only particular events and publication should be send to specific journalists and stakeholders that would potentially be interested in them. You should not spam them with every publication and event that you know, they won't be interested in. Strategically choose the right people. 
+*  This is a good way to be active and stay in contact with news outlets/journalists. It is highly important to have a network of journalists. Networking with the media personnel is very beneficial to promoting your publications and think tank; particularly because you need to have connections with the media to get "mentioning". To learn more about networking, [click here](../strategies/the-art-of-networking.md).  
+
+#### Press ****Release
+
+* A press release is used to let the media know about a new project, new publication, or an upcoming event that is newsworthy. 
+* The Press releases are targeted at the media, thus should respond to their needs: e.g. sent it in the right format, to the right people, at the right time, etc. \(an example of a format is shown below\). 
+* Press releases should be formatted to carry the centre’s brand but arranged according to what the media is used to. They should focus on newsworthy information and not just announce things that while interesting for the organisation may not be relevant for the media. They must start with the news and then follow with background or detail.
+* It is beneficial to have a Press Release section on your website, with all the press releases and conferences, so journalists can have easy access to them. 
+
+**Format Template**
+
+1. _**Title:**_ best 1 line, no longer than 2 lines
+2. _**Location**_: Where the activity of the announced statement was \(for publications same address as on print doc\)
+3.  _**Length**_: Ideally not be longer than 1-1.5 pages
+4. _**Lead**_: the text needs to respond to the 6 W’s: Who, what, when, where, why and how. Most importantly, all information giving in the lead text needs to be picked up in the Text below. No longer than 5 lines.
+5. _**Body**_: More information on the 6 W’s. Start with the most important information first. For longer texts use subtitles. 
+6.  _**Conclude**_ _**with**_: The list of authors or person responsible for the content, the contact information of the Program leader and the Director, as well as the think tanks location and contact information.  
 
 #### Social Media 
 
+* Most people have Social Media now a days, from every day people to most organisations  all over the world have at least one social media account. Therefore, in order to promote your think tank and your publications , you should first create social media accounts such as, twitter, Facebook, Instagram, and LinkedIn. It is the best way to reach the widest audience, in a fast and inexpensive manner.  
+* You should preferably have a little strategy behind posting your publications and blogs. Take into consideration the time, date, day, and prominently the caption when posting on each account. 
+* Blogs are opinion peaces on specific topics and not academic papers, therefore, there are best shared on social media, where people have the ability to comment and share their opinion and stance on the topic, which allows you to promote your think tank. Yet, blogs are not the essential paper of think tanks, thus posting them once on social media and sharing them in your newsletter is most suitable.
+* Publications \(Discussion papers & Policy Briefs\) should be promoted and shared with high priority and need the right strategy in order to be successful. They should be posted on all social media accounts and should be re-shared continually \(depending on the current events and if suitable\). 
+
+#### Events
+
+* Regional groups are often the main actors in promoting publications with various kinds of events in their region. Depending on the publication, the specific regional groups organise events that would suitably promote the paper. In the beginning of starting your think tank, you might not have regional groups up and running. So, you can certainly decide on organising your own event, for more information on how to organise events, [click here](1.why.md). 
+
 #### Press Conference
 
-#### Podium Events
-
-#### 
+* Press conferences can be a great way to promote your publication, since it generates a lot of attention, when mentioned in the digital or/and print media.  
+* Once you have established a network with media outlets, you can organise Press conferences for your publication. However, you need to strategically see what publication journalists would be interested in. It should be a current ongoing hot topic that is related to the political situation and stance. 
+* There are several types of press conferences you can have, which also depends on the topic of your publication. For example; if the topic of your publication is on migration \(a highly sensitive and current topic\), you can organise an exclusive breakfast with important stakeholders and journalists on the publication and increase your relationship with them. As a result, you hope to get a mention in the media.
 
 
 
