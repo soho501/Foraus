@@ -2,17 +2,19 @@
 
 ## Summary
 
-Podcasts, like videos, can reveal knowledgeable information and ideas in a fresh and atypical style, since it tends to be targeted at a broader audience. Not everyone listens to podcasts, but it has been becoming increasingly popular. According to the Reuters Institute’s latest Digital News Report, more than a third of the survey respondents from 22 countries have listened to a podcast in the month preceding the survey. Where 6, from the 11 highest, are from European countries. It is particularly popular among younger audiences and digital natives, where the average listeners are between the age 20-50.  
+Podcasts, like videos, can reveal knowledgeable information and ideas in a fresh and atypical style, since they tend to be targeted at a broader audience. Not everyone listens to podcasts, but it is becoming increasingly popular. According to the Reuters Institute’s latest Digital News Report, more than a third of the survey respondents from 22 countries have listened to a podcast in the month preceding the survey. Where 6, from the 11 highest, are from European countries\*. It is particularly popular among younger audiences and digital natives, where the average listeners are between the age 20-50.  
 
 So, you have now decided to start doing podcasts? But don't know where to start;  well, this document aims to provide knowledge on the different podcast styles and how to develop a podcast as well as how to publish it. Any information you need to start your own Podcast show or series!
 
+\*[Source](https://agency.reuters.com/content/dam/openweb/documents/pdf/news-agency/report/dnr-18.pdf)
+
 ## Styles of Podcasts
 
-There are thousands of different Podcast styles and formats, people constantly come up with new ways to  form their shows. However, the list below explains the most suitable ones for Think Tanks.
+There are thousands of different Podcast styles and formats, people constantly come up with new ways to  form their shows. However, the list below displays and explains the most suitable for Think Tanks.
 
 ### The Interview Show
 
-Is a podcast that includes a host and a guest that have an interview style conversation on a specific topic. 
+Is a podcast that includes a host and a guest who have an interview style conversation on a specific topic. 
 
 * Most **popular** style
 * The interview questions should be based on the **guests individual story**
@@ -26,7 +28,7 @@ Is a podcast that includes a host and a guest that have an interview style conve
 
 *  **Advantages:** 
 
-  * Fans of your guest will likely listen into it
+  * Fans of your guest will likely listen to it
   * It provides a variety since it taps into the experience and expertise of a new person 
   * Low-cost
   * You can do it anywhere
@@ -34,12 +36,12 @@ Is a podcast that includes a host and a guest that have an interview style conve
 * **Disadvantages:**
 
   * Difficulty in booking guests
-  * The research is time-consuming
+  * Research is time-consuming
   * It relies on the chemistry of both parties \(out of one’s control\)
 
 ### The Solo Show
 
-This style is often used by people who have expertise they want to share with an audience, since it will be just you and the microphone. \(It is possible to always have a different person, if it is a podcast series\). 
+This style is often used by people who have expertise that they want to share with an audience, since it will be just the person and the microphone. \(It is possible to always have a different person, if it is a podcast series\). 
 
 * **Common** style
 * **Requirements**: 
@@ -65,7 +67,7 @@ This style is often used by people who have expertise they want to share with an
 
 ### The Panel Show
 
-This usually consists of a host and then a number of rotating guests.
+This usually consists of a host and a number of rotating guests.
 
 * It is better when this style is **recorded** **on** **video**, so people can keep on track who is speaking
 * **Requirements:**
@@ -123,8 +125,8 @@ The set up is a various people \(2+\), sitting around, and having a recorded con
 
 This set-up is a speaker telling a non-fiction story on a topic, event, news, or person.  It includes a lot of audio elements including grabs of interviews, actuality, ambient sound, phone conversations, behind the scenes audio, the list goes on. It can be done as simple or complex as one likes and of course, every bit of audio could add to the story.
 
-* The non-fiction stories are mostly told in an investigative journalism style
-* Requirements:
+* The non-fiction stories are mostly told in an **investigative journalism style**
+* **Requirements:**
 
   * A good speaker, who can communicate the story well
   * A team of journalists, editors, producers, sound designers \(to make it qualitative\)
@@ -132,12 +134,12 @@ This set-up is a speaker telling a non-fiction story on a topic, event, news, or
   * Factual evidence and information
   * Tools: a computer, a microphone, a sound mixer, and a good sound system
 
-* Advantages:
+* **Advantages:**
 
   * It is highly informational 
   * Captures attention of audience
 
-* Disadvantages: 
+* **Disadvantages:** 
 
   * This style is very difficult to accomplish well
   * Requires a lot of work on content
@@ -152,7 +154,7 @@ This is a **mixture** **of** **the** **previous styles,** where you can be creat
 
 * **Advantages:**
 
-  * Choose the styles that suit you best or vary it depending on the Topic
+  * Choose the styles that suit you best or vary it depending on the topic
   * Keeps the Podcast interesting
   * Can have advantages of the styles you chose
 
@@ -180,7 +182,7 @@ Determine your motives prior to starting is key. You should set what your goal a
 
 The ****first ****question ****you should answer, **do you have the resources and time to deliver content?** 
 
-Ideally it should be consistently, whether it is once a week, every 2 weeks, or once a month. You need to be clear about the specific dates and time for your own time management and for your audience to know when to expect a show and thus tune in. 
+Ideally it should be consistent, whether it is once a week, every 2 weeks, or once a month. You need to be clear about the specific dates and time for your own time management and for your audience to know when to expect a show and thus tune in. 
 
 Therefore; ask yourself, can you create a calendar you can stick to? What would it look like? How much time do you need to devote to recording, editing \(if need be\) and syndicating? What day do you have the most time to post? **Make a weekly or monthly syndication day and stick to it!**
 
@@ -194,7 +196,7 @@ Therefore, think about your optimal listener and what you have to offer them— 
 
 #### 4. Figure out your Format/Style
 
-Every podcast has a **specific** **format**, whether it varies sometimes or not. You should beforehand identify what your style is going to be. There are many different ways you could style your show \(as listed above\), you just need to see what format works best for you, your motives, and your Think Tank.
+Every podcast has a **specific** **format**, whether it varies sometimes or not. You should beforehand identify what your style is going to be. There are many different ways you could style your show \([as listed above](podcasts.md#styles-of-podcasts)\), you just need to see what format works best for you, your motives, and your Think Tank.
 
 #### 5. Decide on a Name
 
@@ -204,9 +206,9 @@ When you’ve found a **catchy** **and** **reflective** **name** that you like, 
 
 #### 6. Importance of the Intros & Outros
 
-While you should not write down a script or specific guideline on what to say during your show, since it should sound natural and easy going, you should have a **good plan on what you will say during your intros and outros** - so you will not forget any necessary detail you should mention. Since, the intro should generally entail a brief rundown on what to expect during the show, as well as a brief personal introduction of you and your guests \(if applicable\). Whereas, the outros could entail a teaser for whats to come and  entail a reminder to share the content— these points would make your audience increase.
+While you should not write down a script or specific guideline on what to say during your show, since it should sound natural and easy going, you should have a **good plan on what you will say during your intros and outros** - so you will not forget any necessary detail you should mention. Since, the intro should generally entail a brief rundown on what to expect during the show, as well as a brief personal introduction of you and your guests \(if applicable\). Whereas, the outros could entail a teaser for whats to come and  entail a reminder to share the content— these points would make your audience increase. 
 
- They should present as a thread, which links each episode together. For instance, the intro could welcome the audience \(a specific catch phrase\) as well as introduce the topic and the guests, while the outro remind the audience to like, share, comment, and share their opinion on the topic discussed. Possibly also to contribute to a specific workshop or even to subscribe to your newsletter, that depends on your style and format. 
+They should present as a thread, which links each episode together. For instance, the intro could welcome the audience \(a specific catch phrase\) as well as introduce the topic and the guests, while the outro remind the audience to like, share, comment, and share their opinion on the topic discussed. Possibly also to contribute to a specific workshop or even to subscribe to your newsletter, that depends on your style and format. 
 
 #### 7. Decide on Thumbnail image
 
@@ -233,7 +235,7 @@ You should first have **people** **review** **it**, before putting it on the int
 
 #### Where and How do you upload your Podcast?
 
-You do not have to create your own WordPress site to place your Podcast audio files. You can upload it to the Itunes Podcast or/and on soundcloud. You can also create an account on Libsyn, which is a service that allows you to publish your shows easily on places like iTunes and provides you with links for sharing your content as well as shows you analytics on how your show is performing. Podcaster is a similar  German version of Libsyn \(US\). 
+You do not have to create your own WordPress site to place your Podcast audio files. You can upload it to the iTunes Podcast or/and on soundcloud. You can also create an account on Libsyn, which is a service that allows you to publish your shows easily on places like iTunes and provides you with links for sharing your content as well as shows you analytics on how your show is performing. Podcaster is a similar  German version of Libsyn \(US\). 
 
 #### Resources: 
 

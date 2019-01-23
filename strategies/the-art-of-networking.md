@@ -2,21 +2,23 @@
 
 ## Summary
 
-The Open Think Tank Network with the support of LARIX have created a resourceful knowledge on networking, where you can learn more on the art of networking, how to navigate networking events, as well as how to expand and nurture your network. In this document, the main focus is on the basic techniques and tips required to successfully start networking, which is highly beneficial not just only during the initial founding phase, but also as an on-going process and necessity to keep your organisation going. 
+Networking can be very tricky and difficult, and half the people do not enjoy it. However, it is high necessity in the business world, and especially for a think tank establishing their organisation is urgently needed in every part of it; to recruit authors, employees, funding, connections and to become successful in your mission. Therefore, the community combined their knowledge, where you can learn more on the art of networking, how to navigate networking events, as well as how to expand and nurture your network. 
+
+In this document, the main focus is on the basic techniques and tips required to successfully start networking, which is highly beneficial not just only during the initial founding phase, but also as an on-going process and necessity to keep your organisation going. 
 
 ## Where to Start?
 
-You want to start networking, but don't know where to go or how to start? A great tip is to first identify ****your interest in networking; is it to receive funding, get more visibility for yourself or your organisation, to get out specific information, present your new project/ idea, or to even test your idea. There are so many different purposes of networking, so it all depends on what you want. Then you can decide, where does it makes sense to see someone; bilaterally in a small event or meeting or a place with a bigger stage like a conference, where you have the capability to present yourself/ organisation. 
+You want to start networking, but don't know where to go or how to start? A great tip is to first identify ****your interest in networking; is it to receive funding, get more visibility for yourself or your organisation, to get out specific information, present your new project/ idea, or to even test your idea. There are so many different purposes of networking, so it all depends on what you want. Then you can decide, where does it makes sense to see someone; bilaterally in a small event/ meeting or a place with a bigger stage like a conference, where you have the capability to present yourself/ organisation. 
 
-Moreover, networking has different forms, so you should first be clear what is your purpose and then fit the form to your personality. For example, maybe you are better in selling your product/ yourself in a small round, where you don't have to be put on the spot or make a speech or you prefer the bigger stage and audience, and have the ability to give good speeches. It is best to tailor make your networking strategy to yourself! 
+Moreover, networking has different forms, so you should first be clear what your purpose is and then fit the form to your personality. For example, maybe you are better in selling your product/ yourself in a small round, where you don't have to be put on the spot or make a speech or you prefer the bigger stage and audience, and have the ability to give good speeches. It is best to tailor your networking strategy to yourself! 
 
 ## The Art & Strategies of Networking
 
 ### Start before you need it
 
-True networking happens long before you even think about it. All the people you met in your life and you are in contact with are already part of your network, maybe not professionally at the current moment. However, they potentially could be. Everyone has their value, and having contact with people from all different professions is very helpful, since in order to organise and establish your think tank, one needs a communication expert, a legal expert, a financier, and many more.  
+True networking happens long before you even think about it. All the people you met in your life and are in contact with are already part of your network, maybe not professionally at the current moment. However, have the potential to become one. Everyone has their value, and having contacts with people from all different professions is very helpful, since in order to organise and establish your think tank, one needs a communication expert, a legal expert, a financier, and many more.  
 
-Therefore, you should be open in communicating and connecting with others who also share or have a passion. Meeting new people and enjoying other people in the long run can be highly beneficial. You never know how they might help you or you can help them one day. 
+Therefore, you should be open in communicating and connecting with others who also share or have a passion. Meeting new people and enjoying other people in the long run can be highly beneficial. You never know how they might help you or you can help them with one day. 
 
 In the beginning, try to see who is already in your network and if you are able to help anyone or anyone can help you, whether it is with IT things, what events to attend, anyone they can introduce you to.
 
@@ -24,13 +26,13 @@ In the beginning, try to see who is already in your network and if you are able 
 
 Go step by step about building your network. Once you have a set of contacts, see who your "critical few" or "inner circle" people are. They can be co-workers, mentors, customers, friends, simply someone who has helped you make valuable connections. Those contacts who have clearly contributed to your career and network.
 
- If someone asked you to make a list of your most influential and professional contacts in your life right now, you should be able to say "they are". Those are the people who fully support you and your profession with different capabilities; such as politically, socially, economically, etc. Once you have pinpointed your inner circle, make sure to keep in regular contact with them, do not just simply send them a Christmas card every year. Stay in regular contact with them and follow up on them and their interests. after all, they also have the ability to introduce you to their network, which will ultimately leads to their network and hence increase your contacts and database. 
+ If someone asked you to make a list of your most influential and professional contacts in your life right now, you should be able to say "they are". Those are the people who fully support you and your profession with different capabilities; such as politically, socially, economically, etc. Once you have pinpointed your inner circle, make sure to keep in regular contact with them, do not just simply send them a Christmas card every year. Stay in regular contact with them and follow up on them and their interests. After all, they also have the ability to introduce you to their network, which will ultimately leads to their network and hence increase your contacts and database. 
 
 ### Have Different Narratives
 
-Know and have different narratives when networking, since different people react and require a different ways in order to connect with someone. For example, some people you need to meet 5 times at an event, until they finally agree to have lunch with you; while others after the first 10 minutes of your conversation want to meet up with you next week. 
+Know and have different narratives when networking, since different people react and require different ways in order to connect with someone. For example, some people you need to meet 5 times at an event, until they finally agree to have lunch with you; while others after the first 10 minutes of your conversation want to meet up with you next week. 
 
- Moreover, your narratives also depend on your purpose. For instance, if you are looking for funding, you should have a catchy and simple pitch ready in like 1 min, since that is sometimes all you have. In this moment it can be very difficult to know what the other person is interested in and were they will bite, either they are interested in you as a person, in your title, or in your actual product/ organisation. Therefore, it is a great tip to have a variety of narratives and see what their reaction is, and what they pick up. Once you know, use that narrative and you will probably be successful. 
+ Moreover, your narratives also depend on your purpose. For instance, if you are looking for funding, you should have a catchy and simple pitch ready in like 1 min, since that is sometimes all you have. In this moment, since it can be very difficult to know what the other person is interested in and were they will bite. They could be interested in you as a person, in your title, or in your actual product/ organisation. Therefore, it is a great tip to have a variety of narratives and see what their reaction is, and what they pick up. Once you know, use that narrative and you will probably be successful. 
 
 Therefore, be FLEXIBLE! Try to understand their side, their interest and their personality, and fit your method and narrative to it. Plus, once you have your inner circle, and have a set of people you know, it eventually spills over and becomes much easier to connect with people. 
 
@@ -40,7 +42,7 @@ An essential point to understand and know - networking is a two-way street. A ne
 
 ### Use Social Media
 
-Social Media is playing a major part in growing and maintaining your contacts database. You should expand your network not just off line but also online. It has become a given to be connecting to the people we know or have met though LinkedIn, Facebook, Twitter, Instagram etc. However, you should take that advantage by continue sharing, commenting and writing to them personally, their posts, or your posts. Do not just keep them on your platforms with no communication, stay plugged in with your network and share your successes with them. 
+Social Media is playing a major part in growing and maintaining your contacts database. You should expand your network not just off-line but also online. It has become a given to be connected to the people we know or have met, through LinkedIn, Facebook, Twitter, Instagram etc. However, you should take that advantage by continue sharing, commenting and writing to them personally, their posts, or your posts. Do not just keep them on your platforms with no communication, stay plugged in with your network and share your successes with them. 
 
 From a professional perspective, the optimal use of social media is to establish your brand and credibility with the persons you are connected with by contributing valuable information to your followers and connections. The building of your relationship or your credibility is still crucial to the process, no matter if you are discussing face-to-face networking or virtual networking. Remember, it is important to nurture your contacts more than it is to expand them; quality over quantity. You should establish the credibility of yourself and your organisation, which does not happen overnight.   
 
@@ -49,30 +51,9 @@ From a professional perspective, the optimal use of social media is to establish
 
 ### Finding Networking Events
 
-The best way to start, if you are completely starting from scratch, is researching online. Check what events or conferences are going on in your city that are any interest to you. See who the participants are, if you are interested to meet the specific people. Moreover, just ask your surrounding, your friends, people on your social media/ Linkedin, if they can advise you specific events or places to go and expand your network. Often times you find or hear about good and interesting events coincidentally, just have your ears open!
+The best way to start, if you are completely starting from scratch, is researching online. Check what events or conferences are going on in your city that might be any interest to you. See who the participants are, if you are interested to meet the specific people. Moreover, just ask your surrounding, your friends, people on your social media/ LinkedIn, if they can advise you specific events or places to go and expand your network. Often times you find or hear about good and interesting events coincidentally, just have your ears open!
 
-It also depends on what you want and what your purpose is. For example, if you want to network for funding, you need to find and attend places were you are able to funders either for your project or organisation, you attend more informal places like: like foundation yearly events, or during the lunch period in events/ conferences. It is better and easier to ask for and discuss about funds during informal meetings rather than large formal conferences with a lot of people around. So, always keep your purpose in mind!
-
-### How to navigate your First Networking Event
-
-#### Before the Event
-
-* _**Have a Goal -**_ Ask yourself W_hy are you going?  What do you hope to achieve in this Event?_  For instance, meet 1-2 new people, new job leads,  or funding for your project. Be clear to yourself what you want or need, since just like in life if you know what you want, you can achieve it.
-* _**Have a simple short pitch -**_ Don't have a speech prepared on your organisation or an aggressive elevator pitch. However, know your value and the value of your organisation. Just simply prepare 2-3 sentences explaining what your organisation does, or what you do, or what you are looking for; depending on what your goal is for the event. Make it a casual pitch, you don't have to stick to your prepared sentences. 
-* _**Be Prepared -**_  Try to get the list of participants in the events, since it can be practical knowing who is going to attend, so you can possibly decide who you want to approach, it is best to approach 2-3 people first. Often times its quality over quantity that pays out. You should also have some knowledge on current events in order to start and join a conversation on different topics, making it easier to connect with people. 
-
-#### During the Event
-
-* _**Make a successful Introduction -**_  First impressions are key, so when you meet someone knew, introduce yourself by making eye contact, smile, state you name, and give a firm and short handshake. Then, listen attentively to the other person's name and use it twice during the conversation in order to say it correctly and to remember it. Moreover, make use one of the i[cebreakers when wanting to approach people. ](the-art-of-networking.md#how-to-approach-and-connect-with-people)
-* _**Listen First, then Speak-**_ Let the other person\(s\) speak first!  Because unknowingly, the person who talks about themselves initially usually has half the attention. Since the person on the other end will be too distracted in thinking what they have to say once its their turn. Thus, by asking the other person questions first, and listening attentively, the other person becomes more relaxed and attentive when the conversation turns to you. Moreover, people tend to like and enjoy the conversation with a person who is sympathetic and a listener much rather than an aggressive talker. 
-* _**Show Sincerity and Interest -**_ Ask some interesting and curious questions. Ask the person about their background and work, show your interest in the person not merely in yourself and your work. The best questions cannot be answered with a simple yes or no. Moreover, make follow-up questions to their answers in order to show your sincerity and your attentiveness. 
-* _**Connect at a Human Level -**_ Many people say this is the best advice they can give when it comes to networking. People do not want to feel used, or merely talked to for a purpose. We want to connect on a human level and make new connections. Therefore, communicate with people as if you want to be friends with them, do not make it a robotic conversation. Just let the conversation be natural and flowing. Remember you are having a conversation with another human who has feelings to, and is biased. That is why you should connect with them on a personal base as well, you can for instance start by sharing something about yourself that is not generic. 
-
-#### After the Event 
-
-* _**Follow up & Follow through -**_  Send follow-up emails after the event to anyone you met that you would like to continue networking with. Always personalise each email, to let them know you enjoyed meeting them and mentioning something that you talked about. For example, you can suggest in the email to meet up for an informational exchange, or for a simple coffee. Another way is to go to the places or event you will think your “ideal” or “interested” contact will be, as personal contact is always better and makes it easier to communicate and build a connection. Moreover, follow through, if you told someone you will get in touch with them, DO SO! and reaffirm intent as well.
-
-A good rule of thumb is always follow up with an email or a phone call within 48 hours of meeting them, but don't wait longer than a week. Keep in mind the 4 UPS: _**Read Up! Show Up! Listen UP and FOLLOW UP!**_
+It also depends on what you want and what your purpose is. For example, if you want to network for funding, you need to find and attend places were you are able to find funders either for your project or your organisation. A tip would be to attend more informal places like: like foundation yearly events, or during the lunch period in events/ conferences. It is better and easier to ask for and discuss about funds during informal meetings rather than large formal conferences with a lot of people around. So, always keep your purpose in mind!
 
 ### How to Approach and Connect with People
 
@@ -82,7 +63,7 @@ The first tip with using your setting is to _**use your surroundings to start a 
 
 Another trick is to _**stand next to the host of the event**,_ considering that everybody is going to pass by them, as a result you are going to automatically meet all the people as well and hence create some visibility. Moreover, there is a high chance that the host then introduces you to people and specifically people who are interesting to you.
 
-You can use the setting, by _**going to the bar, to get a coffee /drink or food,**_ where the atmosphere is informal and relaxed, there one can easily start a small talk that can potentially develop in setting up a bilateral meeting for a different time or they can introduce you to someone else; and thus it continues. 
+You can also use your setting, by _**going to the bar to get a coffee /drink or food,**_ where the atmosphere is informal and relaxed, there one can easily start a small talk that can potentially develop in setting up a bilateral meeting for a different time or they can introduce you to someone else; and thus it continues. 
 
 #### Ask for Advice
 
@@ -94,7 +75,7 @@ It is always advantageous to attend these events with another person, if possibl
 
 #### Come Prepared
 
-You don't have to do any homework before going to a event, but rather **c**_**heck the news or social media.**_ See what are current topics in politics, economy, or international affairs, even checking out gossip columns. Whatever floats your boat, and you believe is entertaining or/and fascinating. So, once you are at an event, you can _**start an easy and light conversation regarding interesting current events.**_ Keith Ferrazzi , a so-called master networker and author, calls this "conversational currency, " as it permits conversation to flow. It is all about having a comfortable humanely conversation. 
+You don't have to do any homework before going to a event, but rather **c**_**heck the news or social media.**_ See what are the current topics in politics, economy, or international affairs, even checking out gossip columns. Whatever floats your boat, and you believe is entertaining or/and fascinating. So, once you are at an event, you can _**start an easy and light conversation regarding interesting current events.**_ Keith Ferrazzi , a so-called master networker and author, calls this "conversational currency, " as it permits conversation to flow. It is all about having a comfortable humanely conversation. 
 
 #### Share
 
@@ -116,11 +97,34 @@ The most important factor in networking is just _**being friendly and making new
 
 In conclusion, just _**be authentic and try to make a new friends.**_ This automatically takes the stress out of the situation, thus allowing you to be yourself and eventually building stronger connections. 
 
+### How to navigate your First Networking Event
+
+#### Before the Event
+
+* _**Have a Goal -**_ Ask yourself W_hy are you going?  What do you hope to achieve in this Event?_  For instance, meet 1-2 new people, new job leads,  or funding for your project. Be clear to yourself what you want or need, since just like in life if you know what you want, you can achieve it.
+* _**Have a simple short pitch -**_ Don't have a speech prepared on your organisation or an aggressive elevator pitch. However, know your value and the value of your organisation. Just simply prepare 2-3 sentences explaining what your organisation does, or what you do, or what you are looking for; depending on what your goal is for the event. Make it a casual pitch, you don't have to stick to your prepared sentences. 
+* _**Be Prepared -**_  Try to get the list of participants in the events, since it can be practical knowing who is going to attend, so you can possibly decide who you want to approach, it is best to approach 2-3 people first. Often times its quality over quantity that pays out. You should also have some knowledge on current events in order to start and join a conversation on different topics, making it easier to connect with people. 
+
+#### During the Event
+
+* _**Make a successful Introduction -**_  First impressions are key, so when you meet someone knew, introduce yourself by making eye contact, smile, state you name, and give a firm and short handshake. Then, listen attentively to the other person's name and use it twice during the conversation in order to say it correctly and to remember it. Moreover, make use one of the i[cebreakers when wanting to approach people. ](the-art-of-networking.md#how-to-approach-and-connect-with-people)
+* _**Listen First, then Speak-**_ Let the other person\(s\) speak first!  Because unknowingly, the person who talks about themselves initially usually has half the attention. Since the person on the other end will be too distracted in thinking what they have to say once its their turn. Thus, by asking the other person questions first, and listening attentively, the other person becomes more relaxed and attentive when the conversation turns to you. Moreover, people tend to like and enjoy the conversation with a person who is sympathetic and a good listener much rather than an aggressive talker. 
+* _**Show Sincerity and Interest -**_ Ask some interesting and curious questions. Ask the person about their background and work, show your interest in the person not merely in yourself and your work. The best questions cannot be answered with a simple yes or no. Moreover, make follow-up questions to their answers in order to show your sincerity and your attentiveness. 
+* _**Connect at a Human Level -**_ Many people say this is the best advice they can give when it comes to networking. People do not want to feel used, or merely talked to for a purpose. We want to connect on a human level and make new connections. Therefore, communicate with people as if you want to be friends with them, do not make it a robotic conversation. Just let the conversation be natural and flowing. Remember you are having a conversation with another human who has feelings to, and is biased. That is why you should connect with them on a personal base as well, you can for instance start by sharing something about yourself that is not generic. 
+
+#### After the Event 
+
+* _**Follow up & Follow through -**_  Send follow-up emails after the event to anyone you met that you would like to continue networking with. Always personalise each email, to let them know you enjoyed meeting them and mentioning something that you talked about. For example, you can suggest in the email to meet up for an informational exchange, or for a simple coffee. Another way is to go to the places or event you will think your “ideal” or “interested” contact will be, as personal contact is always better and makes it easier to communicate and build a connection. Moreover, follow through, if you told someone you will get in touch with them, DO SO! and reaffirm intent as well.
+
+A good rule of thumb is always follow up with an email or a phone call within 48 hours of meeting them, but don't wait longer than a week. Keep in mind the 4 UPS: _**Read Up! Show Up! Listen UP and FOLLOW UP!**_
+
+_\*\*\*\*_
+
 ### The Do's & Don'ts 
 
 | DO'S | DON'TS |
 | :--- | :--- |
-| Connect at a human level | Don't elevator pitch |
+| Connect at a human level | Don't provide long elevator pitch |
 | Provide value | Don't dismiss anyone as invaluable |
 | Know your value | Don't be generic  |
 | Set goals | Don't forget networking is "work" |
@@ -136,7 +140,7 @@ In conclusion, just _**be authentic and try to make a new friends.**_ This autom
 
 We connect with so many people virtually and physically all the time, it is hard to keep track of everyone. Once in a while do some **network housekeeping** and **reach out** to the contacts you lost touch with or do not remember what they do exactly. Sometimes losing touch is inevitable, yet you can always contact them and show your interest in what is current with them. 
 
-* **Writing email right away after meeting them**
+Moreover, you could write an email right away after meeting them stating who you are, simply re-introducing yourself after an event is always positive. 
 
 ### Congratulate Them
 

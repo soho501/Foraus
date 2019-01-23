@@ -2,9 +2,9 @@
 
 ## Summary 
 
-Publications are part of the core business of political think tanks. The process of writing a blog article, a policy brief or getting a paper published seems to raise a lot of questions. The main challenges for upcoming think tanks are the lack of style-guides, recruitment of and communication with authors, missing experience with review processes, best practices on printing and publishing, and finally the final publishing process itself \(promotion/launches/press conferences\).
+Publications are part of the core business in political think tanks. The process of writing a blog article, a policy brief or getting a paper published seems to raise a lot of questions. The main challenges for upcoming think tanks are the lack of style-guides, how to recruit and communicate with authors, missing experience with review processes, the best practices on printing and publishing, and finally the publishing process itself \(promotion/launches/press conferences\).
 
-This document aims to answer these main questions and and therefore help your think tank to get your ideas and inputs out there as quickly as possible while ensuring professionalism and a high quality. The majority of the compiled information derives from foraus guidelines and is based on the knowledge and experience of the community.
+This document aims to answer all these main questions and as a result help your think tank get your ideas and inputs out there as quickly as possible, while ensuring professionalism and highly qualitative material. The majority of the compiled information derives from foraus guidelines and is based on the knowledge and experience of the community.
 
 ## Authors
 
@@ -59,14 +59,14 @@ Writing policy papers/ briefs are the main tasks of a think tank, thus recruitin
 
 **Events:** Organising events and workshops to find interested and knowledgeable authors are a great way to start your search. 
 
-_An example template:_
+_**An example template:**_
 
-* _**Policy Lab event:**_
+* **Policy Lab event:**
 
-  1. Application phase: Where you state that academics, young enthusiasts and experts  \(on the given topics\) apply to participate in the Policy Lab event.
-  2. The Kick off: All selected participants meet for the first meeting, brainstorming, team building and define the question they will work on during the Policy Lab event.
-  3. During the event: Participants work together with experts on innovative policy proposals and are trained in pitching and constructive feedback. In the evening there would be opportunities for networking and interdisciplinary exchange.
-  4. Follow Up \(up-coming months\): the teams are accompanied through the writing, review and publication process by experts and your think tank.
+  1. _Application phase:_ Where one can state that academics, young enthusiasts and experts can \(on the given topics\) apply to participate in the Policy Lab event.
+  2. _The Kick off:_ All selected participants join for the first meeting, brainstorming, team building and define the question they will work on during the Policy Lab event.
+  3. _During the event:_ Participants work together with experts on innovative policy proposals and are trained in pitching and receive constructive feedback. Whereas, in the evening there would be opportunities for networking and interdisciplinary exchange.
+  4. _Follow Up_ \(up-coming months\): the teams are accompanied through the writing, review and publication process by experts and the think tank itself.
 
   The target audience would for instance be  young practitioners, academics and enthusiasts, who would develop the most innovative and effective policy recommendations. 
 
@@ -114,7 +114,7 @@ _**A template for authors: Launch of Publications**_
 
 ## Blog 
 
-A think tank blog presents a way to share and present new research and events. It can be the central channel to publish opinions and reading lists as well as highlighting new videos, podcasts, and other multimedia produced by the think tank. Another option is to give some researchers/ experts to keep their own blogs and publish some posts on the think tanks website or blog. 
+A think tank blog presents a way to share and present new research and events. It can be the central channel to publish opinions and reading lists as well as highlighting new videos, podcasts, and other multimedia produced by the think tank. Another option is to give some researchers/ experts the possibility to keep their own blogs and publish some posts on the think tanks website or blog. 
 
 The Blog should be linked to other digital media tools, for instance; the website, Facebook, Twitter, etc., so that a post would immediately be updated on all services.
 
@@ -130,7 +130,7 @@ _**Length:**_
 
 _**Title:**_ 
 
-The title should be short and draw the reader into the text. By a provocative, surprising statement or by catchwords like "crisis", " mess", "ban". 
+The title should be short and draw the readers attention to the text. By a provocative, surprising statement or by catchwords like "crisis", " mess", "ban". 
 
 The title makes it clear what the blog post is about. For title and lead: short words, no abbreviations. No economic commissions, OSCE decisions or similar word monstrosities. Verbs bring a title to life. The title can be separated by a colon, question mark or exclamation mark.
 
@@ -142,7 +142,7 @@ _Examples:_
 
 _**The Lead**_
 
-The lead at the beginning of the text should summarise what the blog is about and intend to encourage the reader to read on. For example, the lead leaves a question open, points out a contradiction or ends with a "cliffhanger" - this is how the reader wants to experience the resolution. 
+The lead at the beginning of the text should summarise what the blog is about and intend to encourage the reader to read on. For example, the lead leaves a question open, points out a contradiction or ends with a "cliffhanger" - so the reader wants to experience the resolution. 
 
 _Length -_  max. 200 characters including spaces.
 
@@ -161,7 +161,7 @@ _**Formality**_
 
 _**Author line and Disclaimer**_
 
-Each text should contain two references to the author \(s\): first and last name\(s\) at the beginning, as well as an italic footer at the end of the text. This footer contains last and first name, age, brief information on education/occupation, place of residence, function at think tank and other information that contributes to the relevance of the text.
+Each text should contain two references to the author \(s\): first and last name\(s\) at the beginning, as well as at the end of the text \(as an italic footer\). This footer contains last and first name, age, brief information on education/occupation, place of residence, function at the think tank and other information that contributes to the relevance of the text.
 
 _Example:_
 
@@ -177,13 +177,13 @@ The foraus blog is a forum that is made available to both foraus members and gue
 
 _**The Set-up**_
 
-As with news, the most important thing first. The central idea and the issue, should be at the beginning. Not everything has to be explained right away, that's what the text is for. But it should be clear what the article is about. Then the text needs a guiding theme, a lead to the topic: it must lead from A to B in an comprehensible way. Delete secondary thoughts \(possibly use them in another blog entry\). 
+As with news, the most important thing first. The central idea and the issue, should be at the beginning. Not everything has to be explained right away, that's what the text is for. But it should be clear what the article is about. Then, the text needs a guiding theme, a lead to the topic: it should lead from A to B in a comprehensible way. Delete secondary thoughts \(possibly use them in another blog entry\). 
 
 _Tips:_ already formulate the lead before writing the article. Then you will clearly know what you want to write about. Moreover, it is great to end the blog with a provocative idea or question in order to start a discussion.
 
 _**Style**_
 
-The text should meet journalistic criteria, i.e. it should be appealing to read. It is not a matter of writing a scientific paper. If you don't succeed, think about it: In what way would I inform my colleague about it? You wouldn't tell him about the "tax minimisation practice of companies", but rather about "companies that want to pay taxes as low as possible".
+The text should meet journalistic criteria, i.e. it should be appealing to read. It is not a matter of writing a scientific paper. If you don't succeed, think about it: In what way would I inform my colleagues about it? You wouldn't tell them about the "tax minimisation practice of companies", but rather about "companies that want to pay taxes as low as possible".
 
 * Short and clear: short sentences and try to explain complicated facts with simple words.
 * Be provocative
@@ -196,8 +196,8 @@ _**Picture**_
 
 A catchy text also needs a catchy picture. It should:
 
-* Be OpenSource or provided by someone named \(don't just copy it from the web\)
-* Not just be any picture for the sake of having a picture in it; but it should attract the eye and draw attention to the text \(articles with good pictures are read much earlier\)
+* Be OpenSource or be provided by someone named \(don't just copy it from the web\)
+* Not just any picture for the sake of having a picture in it; but it should attract the eye and draw attention to the text \(articles with good pictures are read much earlier\)
 * Match the text and title: No text-image scissors
 * Better to display a few and large things/persons instead of many and small things. 
 
@@ -218,11 +218,11 @@ A catchy text also needs a catchy picture. It should:
 
 **Output:** Concept Proposal
 
-**Communication:** The concept proposal should first be checked and commented by your programme manager \(period 1-2 weeks\) and then by your managing director \(period 1-2 weeks\). Subsequently, the concept proposal is sent by the programme manager to the community management for information.
+**Communication:** The concept proposal should first be checked and commented by your program leader \(period 1-2 weeks\) and then by your managing director \(period 1-2 weeks\). Subsequently, the concept proposal is sent by the program leader to the community management for information.
 
 #### Concept Proposal Template
 
-At the beginning of each discussion paper, we generate a concept proposal. Then, this  is reviewed and commented on by the programme manager and managing director. The length should not exceed 2-3 pages.
+At the beginning of each discussion paper, we generate a concept proposal. Then, this is reviewed and commented on by the program leader and managing director. The length should not exceed 2-3 pages.
 
 1. _**Title**_
 2. _**Policy Question**_ - What problem should the paper address? 
@@ -290,7 +290,7 @@ The first version of the paper should be reviewed by 2-3 external experts. This 
 
 #### Internal Review
 
-The Board and Management then coordinates the internal review based on the 2nd version of the paper. The review criteria includes: checking for language errors, viewing that the paper is argumentatively coherent, clear themed,  and policy relevant, as well as has concrete recommendations. At the same time, the timetable for publication should be updated in cooperation with the office.
+The Board and Management then coordinates the internal review based on the 2nd version of the paper. The review criteria includes: checking for language errors, viewing that the paper is argumentatively coherent, clearly themed,  and policy relevant, as well as having concrete recommendations. At the same time, the timetable for the publication should be updated in cooperation with the office.
 
 → The paper can be sent to the authors with suggestions for improvements if necessary \(i.e. there is a 4th version\).
 
@@ -302,7 +302,7 @@ The Board and Management then coordinates the internal review based on the 2nd v
 
 **Before Publishing:** The administrative office should agree with the incorporation of the reviews and the end product; the paper with the recommendation for publication is submitted to the full executive Board. Where the criteria for publication will be reviewed; the policy relevance, concrete recommendations available, timing, and sufficient internal resources/capacity.
 
-**Communication:** The director and management informs the entire executive board. Without the veto of any member, the board gives authors, managing director and community management the green light for the publication.
+**Communication:** The director and management informs the entire executive board. Without the veto of any member, the board gives authors, managing director, project leader, and communication manager the green light for the publication.
 
 * Developing communication and media strategy  
 * Formatting the paper \(incl. creation of graphics\) 
@@ -317,9 +317,9 @@ _The fun begins after the Publication! It is Promotion time!_
 
 #### Newsletter
 
-* Newsletters are the perfect place to promote your Blogs and Publications, since they are send out internally and externally. They are ideally send to all members, program groups, and all people who sign up for it. The newsletter has a wide diverse audience. 
+* Newsletters are the perfect place to promote your Blogs and Publications, since they are send out internally and externally. They are ideally send to all members, program groups, and every person who signs up for it. The newsletter has a wide diverse audience. 
 * The newsletter should be edited to include the newest publications, blog posts, and events.
-* More about [Emailed Newsletters](../online-presence/communication.md#emailed-newsletter) on the communication knowledge product.
+* More about [Emailed Newsletters](../online-presence/communication.md#emailed-newsletter)
 
 **Format Template**
 
@@ -333,7 +333,7 @@ _The fun begins after the Publication! It is Promotion time!_
 
 #### Op-eds
 
-* Op-eds or \(a\) column\(s\) in a national or local newspaper allows your think tank to share an idea or debate with minimal impedance from journalists or media editors. It can be an influential method in reaching a broad audience and support in developing the medias agenda, which can have an abundant impact on the agenda of the public. 
+* Op-eds or \(a\) column\(s\) in a national or local newspaper allows the think tank to share an idea or debate with minimal impedance from journalists or media editors. It can be an influential method in reaching a broad audience and support in developing the medias agenda, which can have an abundant impact on the agenda of the public. 
 * The op-eds are supposed to encompass a wide but rather informed or/and educated audience. Their knowledge of an issue or their stance on it can and will heavily rely on the publication itself; thus taking this into account when conducting them. 
 * All around these are short \(most likely shorter than an opinion or blog entry\) pieces that set forward an informed assessment in an interesting and 'punchy' manner. Publications and the media would generally want op-eds/columns that can provoke a discussion or a response from their audience. Hence, not every publication is suitable for doing op-ed as their promotion.
 
@@ -347,7 +347,7 @@ _The fun begins after the Publication! It is Promotion time!_
 
 * A press release is used to let the media know about a new project, new publication, or an upcoming event that is newsworthy. 
 * The Press releases are targeted at the media, thus should respond to their needs: e.g. sent it in the right format, to the right people, at the right time, etc. \(an example of a format is shown below\). 
-* Press releases should be formatted to carry the centre’s brand but arranged according to what the media is used to. They should focus on newsworthy information and not just announce things that while interesting for the organisation may not be relevant for the media. They must start with the news and then follow with background or detail.
+* Press releases should be formatted to carry the centre’s brand but arranged according to what the media is used to. They should focus on newsworthy information and not just announce things that while interesting for the organisation may not be relevant for the media. They must start with the news and then follow with background information or/and more details.
 * It is beneficial to have a Press Release section on your website, with all the press releases and conferences, so journalists can have easy access to them. 
 
 **Format Template**
@@ -374,7 +374,7 @@ _The fun begins after the Publication! It is Promotion time!_
 
 * Press conferences can be a great way to promote your publication, since it generates a lot of attention, when mentioned in the digital or/and print media.  
 * Once you have established a network with media outlets, you can organise Press conferences for your publication. However, you need to strategically see what publication journalists would be interested in. It should be a current ongoing hot topic that is related to the political situation and stance. 
-* There are several types of press conferences you can have, which also depends on the topic of your publication. For example; if the topic of your publication is on migration \(a highly sensitive and current topic\), you can organise an exclusive breakfast with important stakeholders and journalists on the publication and increase your relationship with them. As a result, you hope to get a mention in the media.
+* There are several types of press conferences you can have, which also depends on the topic of your publication. For example; if the topic of your publication is on migration \(a highly sensitive and current topic\), you can organise an exclusive breakfast with important stakeholders and journalists on the publication and increase your relationship with them. As a result, there could be a possible mention in the media, which can boost your publication.
 
 
 
