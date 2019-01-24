@@ -8,7 +8,7 @@ In this document, the main focus is on the basic techniques and tips required to
 
 {% embed url="https://www.youtube.com/watch?v=aLdxplRnhm0" %}
 
-                         \*Our experts share their best networking tips_!_ 
+                               \*Our experts share their best networking tips_!_ 
 
 ## Where to Start?
 
