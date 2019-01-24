@@ -6,6 +6,10 @@ Networking can be very tricky and difficult, and half the people do not enjoy it
 
 In this document, the main focus is on the basic techniques and tips required to successfully start networking, which is highly beneficial not just only during the initial founding phase, but also as an on-going process and necessity to keep your organisation going. 
 
+{% embed url="https://www.youtube.com/watch?v=aLdxplRnhm0" %}
+
+                         \*Our experts share their best networking tips_!_ 
+
 ## Where to Start?
 
 You want to start networking, but don't know where to go or how to start? A great tip is to first identify ****your interest in networking; is it to receive funding, get more visibility for yourself or your organisation, to get out specific information, present your new project/ idea, or to even test your idea. There are so many different purposes of networking, so it all depends on what you want. Then you can decide, where does it makes sense to see someone; bilaterally in a small event/ meeting or a place with a bigger stage like a conference, where you have the capability to present yourself/ organisation. 
