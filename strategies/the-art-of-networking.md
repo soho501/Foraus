@@ -6,7 +6,9 @@ Networking can be very tricky and difficult, and half the people do not enjoy it
 
 In this document, the main focus is on the basic techniques and tips required to successfully start networking, which is highly beneficial not just only during the initial founding phase, but also as an on-going 
 
-{% embed url="https://www.youtube.com/watch?v=joCPxtimGbk&t" caption="Our experts share their networking tips" %}
+{% embed url="https://www.youtube.com/watch?v=joCPxtimGbk&feature=youtu.be" %}
+
+                        \*_This video entails networking tips from our experts!_
 
 ## Where to Start?
 
