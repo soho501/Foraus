@@ -8,20 +8,26 @@ Along with people, funds are a think tank’s main input, which makes fundraisin
 
 ## Fundraising Requirements
 
-* Donor Market
+* A Donor Market
 * People and time
 * Investments \(money\)
-* Fundraising tools and know-how
+* Fundraising tools and know-hows
 
 ## Fundraising Models
 
-Core funding
+### Core funding
 
-Contracts
+### Contracts
 
-Grants
+### Grants
 
+### Charging for Content
 
+#### Membership
+
+#### Subscriptions
+
+#### Event 
 
 ## Fundraiser Mentality 
 
@@ -41,7 +47,7 @@ You should set a positive and confident mentality, when asking for funds. If you
 * Foundation
 * Governments - in your country or/and abroad
 * Public Bodies \(Universities, Federal Agencies\) 
-* Public Donors 
+* Private Donors 
 
 ### Identifying the right donors/funders.  
 
@@ -51,12 +57,22 @@ You should set a positive and confident mentality, when asking for funds. If you
 * Which actors in the market suit our think tank?
 * What/where are their networks? How do we approach them? 
 
-### For example: Market Analysis
+#### For example: Market Analysis
 
 1. _**Establish and respect excluded markets**_ \(markets you do not want your think tank to be associated with\). 
 2. _**Determine top 3 promising markets**_ \(e.g. finance, IT, and Platform markets\)
 3. _**Per Market:**_ Establish a list of 50-100 corporations, then analyse and rank the top 5, identify the right contact person \(through e.g. Linkedin\) 
 4. _**Make an Offer:**_ it is better to sent it through these business networks/ platforms, than through email \(since they get drowned by emails\)
+
+#### Five components that help to evaluate a funding model’s appropriateness:
+
+1. _**Dependable:**_ Funds that are random and non-dependable don't tend to help the think tank in the long term or in their sustainability. 
+2. _**Diverse:**_
+3. _**Acceptable conditions:**_
+4. _**Independent:**_
+5. _**Transparent:**_
+
+These criteria can be challenged and/or modified. However, they offer a fairly basic yet comprehensive set of guidelines to assess if an organisation’s funding model is actually problematic in terms of its broader strategy.
 
 ## What will and can we offer the donor/funder?
 
@@ -99,7 +115,35 @@ Therefore, to know what kind of donor you are approaching, you should:
 3. Get them involved in your organisation \(e.g. Newsletter, Events,...\)
 4. Prepare the potential donor\(s\) 
 
-## Engaging with Funders
+## Engaging with Funders/Donors
+
+It is highly important to reinforce the positive decisions of the funder/donor for supporting your think tank. 
+
+**Say Thank You** - Always be humble and grateful, and very thankful towards the funder.
+
+**Proof of Usage** - You should be able to prove to them that you have been using the money for what it was intended for, preferably with a documentation. An annual report and if asked, a financial statement. 
+
+**Recognition** - Most funders would want recognition. They would either want their logo to be present or/and shown on every product, project, or event the think tank produces/organises with their funds. \(This is usually set and is included when signing a contract\).
+
+However, you should always ask your donors if they want to be mentioned in your annual report or publication, not every donor would want to. Nevertheless, it is another opportunity for you to recognise them. 
+
+**Show Impact** - This is beneficial not just for the donor, but also for you to have a clear view of what your impact is or/and your project. 
+
+**Communication** - Stay in regular contact with them. Invite them to events you think would interest them, invite them out for dinner or drinks. Keep the communication flowing and stay up to date with them, so they continue funding you and it is always important to have good contacts in your network; especially since you would want to win the funder for a recurring donation. 
+
+**Examples of  communication tools** that you should use **on-going** and **systematically**: 
+
+* _**For Companies:**_ Send annual reports, organize formal and informal meetings, and send Newsletter
+* _**Foundation:**_ Send annual reports and stay in correspondence with the contact person, invite to Events
+* _**Governments**_ \(in your country or/and abroad\): Annual report
+* _**Public Bodies:**_ \(Universities, Federal Agencies\): Annual report and Presentation Meetings
+* _**Private Donors:**_ Send letters, phone calls, include in different digital platforms, send Newsletter, invite to Events, organize formal and informal meetings
+
+
+
+
+
+
 
 ## 
 

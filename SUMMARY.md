@@ -25,4 +25,5 @@
 
 * [The Art of Networking](strategies/the-art-of-networking.md)
 * [Fundraising](strategies/how-to-fundraise.md)
+* [Project Management](strategies/project-management.md)
 
