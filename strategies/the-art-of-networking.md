@@ -4,11 +4,9 @@
 
 Networking can be very tricky and difficult, and half the people do not enjoy it. However, it is high necessity in the business world, and especially for a think tank establishing their organisation is urgently needed in every part of it; to recruit authors, employees, funding, connections and to become successful in your mission. Therefore, the community combined their knowledge, where you can learn more on the art of networking, how to navigate networking events, as well as how to expand and nurture your network. 
 
-In this document, the main focus is on the basic techniques and tips required to successfully start networking, which is highly beneficial not just only during the initial founding phase, but also as an on-going 
+In this document, the main focus is on the basic techniques and tips required to successfully start networking, which is highly beneficial not just only during the initial founding phase, but also on-going.
 
-{% embed url="https://www.youtube.com/watch?v=joCPxtimGbk&feature=youtu.be" %}
-
-                        \*_This video entails networking tips from our experts!_
+{% embed url="https://www.youtube.com/watch?v=KQt6mWJoyEg&feature=youtu.be" caption="\*This video entails networking tips from our experts!" %}
 
 ## Where to Start?
 
