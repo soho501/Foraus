@@ -24,7 +24,7 @@ _foraus_ \(Swiss Forum on Foreign Policy\) is an independent grassroots think ta
     <tr>
       <td style="text-align:left"><b>Structure</b>
       </td>
-      <td style="text-align:left">Bottom-up, member-based, grassroots (crowdsourcing topics & authors)</td>
+      <td style="text-align:left">Bottom-up, member-based, grassroots (crowdsourcing topics &amp; authors)</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Position</b>
@@ -43,7 +43,8 @@ _foraus_ \(Swiss Forum on Foreign Policy\) is an independent grassroots think ta
       <td style="text-align:left"><b>Fundraising</b>
       </td>
       <td style="text-align:left">
-        <p>Diversification, ”non-ideological funding” (Foundations, Federal</p>
+        <p>Diversification, &#x201D;non-ideological funding&#x201D; (Foundations,
+          Federal</p>
         <p>Department of Foreign Affairs, Members, Cercle de Donateurs)</p>
       </td>
     </tr>
@@ -83,7 +84,7 @@ The basic concept was to create a **crowdsourcing think tank** that relies on th
 
 _foraus_ is also a digitally driven think tank. The innovations of the digital age allow and even encourage us to push our think tank into the virtual sphere. Especially as a think tank that relies on a broad community, consisting mainly of volunteers, who are spread all over Switzerland; it is vital to find efficient and location-independent means as well as tools for a collaborative teamwork. We believe in a digital future! Therefore, as a civic tech-startup, we promote a digital work ethic. 
 
-This is also why _foraus_ developed **the digital ideation and collaboration platform** [**Policy Kitchen**](https://policykitchen.com) **: a policy crowdsourcing methodology**. Launched in 2018, it enables a large and diverse network of thinkers, to find creative solutions to pressing policy challenges. The methodology is built on a crowd innovation platform, a series of workshops in different cities, and a support process to bring the best ideas to policy impact. Policy Kitchen is an open platform and allows you to contribute your ideas to various policy challenges as well as to launch your own campaign!
+This is also why _foraus_ developed **the digital Ideation and collaboration platform** [**Policy Kitchen**](https://policykitchen.com) **: a policy crowdsourcing methodology**. Launched in 2018, it enables a large and diverse network of thinkers, to find creative solutions to pressing policy challenges. The methodology is built on a crowd innovation platform, a series of workshops in different cities, and a support process to bring the best ideas to policy impact. Policy Kitchen is an open platform and allows you to contribute your ideas to various policy challenges as well as to launch your own campaign! For more information and how to start your own campaign; click [here](../online-presence/policy-kitchen.md). 
 
   
 **Do you feel inspired? Do you want to start your own think tank? Then head over to our knowledge resource database and have a look at the document :**

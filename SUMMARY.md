@@ -14,6 +14,7 @@
 * [Understanding GDPR](online-presence/understanding-gdpr.md)
 * [Mailchimp User Guide](online-presence/mailchimp-user-guide.md)
 * [Communication](online-presence/communication.md)
+* [Policy Kitchen](online-presence/policy-kitchen.md)
 
 ## Products
 
