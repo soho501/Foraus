@@ -51,7 +51,7 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 * _**Get feedback on your challenge question**_ from the target audience \(policy makers?\) of your result. This gets you a buy-in from the beginning.
 * Know what it should become at the end of the process: _**a paper? A blog series? A project?**_ Think big, start small.
 
-### **2. Set up challenge**
+### **2. Set up a challenge**
 
 * Once you have a rough idea, get in touch with [policykitchen@foraus.ch](mailto:policykitchen@foraus.ch).
 * They will provide you with backend access and a _**proper on-boarding.**_
@@ -69,13 +69,13 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 * Target your _**core community**_ and _**external stakeholders**_ ****of the issue - the magic is in the mix, ideally vertically \(junior / senior\) and horizontally \(different perspectives\).
 * Workshops tend to need some _**budget.**_ Consider event sponsoring or project based [fundraising](policy-kitchen.md#how-about-the-fundraising-part). We can help, yet better do a small thing than nothing at all.
 
-### **4. Engage crowd**
+### **4. Engage the crowd**
 
 * Use your _**core community and main channels.**_
 * Also use the opportunity _**to grow your program**_ by targeting specific people and networks. Spend time identifying stakeholders and multipliers.
 * _**Physical workshops are key**_ ****to get people interested. Just posting a link may work, but don’t put all your eggs in this basket.
 
-### **5. Moderate Platform**
+### **5. Moderate the Platform**
 
 * You’ll need 2 or more people _**moderating the activity on the platform.**_ Welcome new participants, value new ideas, ask questions, give pointers to resources and people, discourage abuse. This role can be given to a junior with a witty mind and some basic knowledge about the issue. Time investment is about 1-2 hours per week over the course of your campaign.
 
