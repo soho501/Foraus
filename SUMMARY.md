@@ -6,7 +6,7 @@
 
 * [The foraus Model](basic/the-foraus-model.md)
 * [How to Start-Up a Think Tank](basic/1..md)
-* [Describing the Network](basic/describing-the-network.md)
+* [Describing the Open Think Tank Network](basic/describing-the-network.md)
 
 ## Online Presence
 

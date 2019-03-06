@@ -168,7 +168,7 @@ The master list is the new list that will contain all type of foraus users inclu
 
 ## Groups
 
-Groups in Mailchimp are used to let users express their interest. For example in foraus, they have created three categories of groups. **Foraus regional groups:** Zurich, Berne, Geneve, etc..; **Foraus program groups:** Global Institutions, Migrations, European Affairs, etc… and **Newsletters**: Foraus Newsletters, Espresso Diplomatique.
+Groups in Mailchimp are used to let users express their interest. For example in foraus, they have created three categories of groups. **foraus regional groups:** Zurich, Berne, Geneve, etc..; **foraus program groups:** Global Institutions, Migrations, European Affairs, etc… and **Newsletters**: foraus Newsletters, Espresso Diplomatique.
 
 When a new user fills up the registration form, they will be able to choose which of these groups they wants to subscribe to.
 
@@ -176,7 +176,7 @@ When a new user fills up the registration form, they will be able to choose whic
 
 ## Segments
 
-This is the mail tool within Mailchimp to slice subscribers for targeted campaigns.  Segments are defined with a set of rules and automatically will include all the subscribers that match those rules. For example, if we would like to send an email to all the people subscribed for the Foraus Newsletter in German we would define the following rule:
+This is the mail tool within Mailchimp to slice subscribers for targeted campaigns.  Segments are defined with a set of rules and automatically will include all the subscribers that match those rules. For example, if we would like to send an email to all the people subscribed for the foraus Newsletter in German we would define the following rule:
 
 ![](https://lh4.googleusercontent.com/nT4wTxQJKABwH-Cw-46YQTxkLUKEURUO-SrvN6VvA-8lKJMgaRrZWu07hU4q5HypAKy2dFdLLz4DyYthzDUtEHVhBMJ1QzB8t03FFvD8LiuUHOdFeCs7qFfa8JJNkeDW-3ggZT4g)
 

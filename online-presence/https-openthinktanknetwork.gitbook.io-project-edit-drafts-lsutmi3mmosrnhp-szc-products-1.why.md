@@ -6,7 +6,7 @@ description: A resource for the Open Think Tank Network
 
 ## Summary
 
-For new think tanks in our network, OTTN is providing a ‘starter website’, which is the basic technology and structure needed to have a basic web presence. However, a website comprises more than just technology – there are a range of common pieces of content that need to be included, such as privacy policies.  
+For new think tanks in our network, OpenTTN is providing a ‘starter website’, which is the basic technology and structure needed to have a basic web presence. However, a website comprises more than just technology – there are a range of common pieces of content that need to be included, such as privacy policies.  
 Unfortunately, the requirements vary somewhat from country to country – as do the languages. As such, we are unable to produce exact text that can be copied into each section. However, in this resource we have pulled together what these elements are and described what they commonly contain. We have also linked to external resources and samples that you might be able to build from.
 
 ## Think Tank Description 

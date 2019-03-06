@@ -1,29 +1,29 @@
 ---
 description: >-
-  There is standard text that we have developed to describe our network of
-  grassroots think tanks. Please use this statement below.
+  There is standard text that we have developed to describe the Open Think Tank
+  Network. Please use this statement below.
 ---
 
-# Describing the Network
+# Describing the Open Think Tank Network
 
 ## _Short Description_
 
-* _**EN:**_ ****\[Think tank\] is part of an international network of open, grassroots think tanks working on key issues in international affairs. 
-* _**FR:**_ \[Think tank\] fait partie d'un réseau international de think tanks ouverts, travaillant sur des questions clés dans les affaires internationales. 
-* _**DE:**_ \[Think Tank\] ist Teil eines internationalen Netzwerks von offenen Basis-Thinktanks, die sich mit Schlüsselthemen in internationalen Angelegenheiten beschäftigen. 
+* _**EN:**_ ****\[Think tank\] is part of the Open Think Tank Network, which are various open grassroots think tanks working together on key issues in international affairs. 
+* _**FR:**_ \[Think tank\] fait partie du réseau «Open Think Tank Network», qui se compose de différents think tanks grassroots. Ces derniers travaillent ensemble sur les principaux enjeux internationaux. 
+* _**DE:**_ \[Think Tank\] ist Teil vom Open Think Tank Network, wo verschiedene offene grassroots Think-Tanks gemeinsam an Schlüsselthemen in internationalen Angelegenheiten zusammenarbeiten. 
 * _I**T:**_ \[Think tank\] fa parte di una rete internazionale di think tank aperti e di base che lavorano su questioni chiave negli affari internazionali. ~~****~~
 
 ## Long Description
 
-* _**EN:**_ \[Think tank\] is part of an international network of open, grassroots think tanks working on key issues in international affairs. Member think tanks are committed to developing constructive, coherent and future-oriented policy solutions with the objective of fostering a culture of open debate and discussion. They are all non-partisan and strive to be as inclusive as possible
+* _**EN:**_ \[Think tank\] is part of the Open Think Tank Network, which are various open grassroots think tanks working together on key issues in international affairs. Member think tanks are committed to developing constructive, coherent and future-oriented policy solutions with the objective of fostering a culture of open debate and discussion. They are all non-partisan and strive to be as inclusive as possible
 
 
 
-* _**FR:**_ \[Think tank\] fait partie d'un réseau international de think tanks ouverts, travaillant sur des questions clés dans les affaires internationales. Les think tanks membres s'engagent à développer des solutions politiques constructives, cohérentes et tournées vers l'avenir dans le but de promouvoir une culture de débat et de discussion ouverte. Ils sont tous non-partisans et s'efforcent d'être aussi inclusifs que possible.
+* _**FR:**_ \[Think tank\] fait partie du réseau «Open Think Tank Network», qui se compose de différents think tanks grassroots. Ces derniers travaillent ensemble sur les principaux enjeux internationaux. Les think tanks membres s'engagent à développer des solutions politiques constructives, cohérentes et tournées vers l'avenir dans le but de promouvoir une culture de débat et de discussion ouverte. Ils sont tous non-partisans et s'efforcent d'être aussi inclusifs que possible.
 
 
 
-* _**DE:**_ \[Think Tank\] ist Teil eines internationalen Netzwerks von offenen Basis-Thinktanks, die sich mit Schlüsselthemen in internationalen Angelegenheiten beschäftigen. Die Think Tanks der Mitglieder sind der Entwicklung konstruktiver, kohärenter und zukunftsorientierter politischer Lösungen verpflichtet mit dem Ziel, eine Kultur der offenen Diskussion und Diskussion zu fördern. Sie sind alle unparteiisch und bemühen sich, so umfassend wie möglich zu sein.
+* _**DE:**_ \[Think Tank\] ist Teil vom Open Think Tank Network, wo verschiedene offene grassroots Think-Tanks gemeinsam an Schlüsselthemen in internationalen Angelegenheiten zusammenarbeiten. Die Think Tanks der Mitglieder sind der Entwicklung konstruktiver, kohärenter und zukunftsorientierter politischer Lösungen verpflichtet mit dem Ziel, eine Kultur der offenen Diskussion und Diskussion zu fördern. Sie sind alle unparteiisch und bemühen sich, so umfassend wie möglich zu sein.
 
 
 

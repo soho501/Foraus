@@ -56,6 +56,9 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 * Once you have a rough idea, get in touch with [policykitchen@foraus.ch](mailto:policykitchen@foraus.ch).
 * They will provide you with backend access and a _**proper on-boarding.**_
 * Basically, you’ll need a challenge intro text and an image, clarity on the timeline and a selection of mechanism \(crowd, jury, none?\).
+* Below you will find a video tutorial on "How to create a challenge on Policy Kitchen". 
+
+{% embed url="https://www.youtube.com/watch?v=AtsQvXyeeTY&t=133s" %}
 
 ### **3. Plan workshops**
 
