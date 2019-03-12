@@ -31,7 +31,7 @@ Along with people, funds are a think tank’s main input, which makes fundraisin
 
 ## Fundraiser Mentality 
 
-Before you can ask for funding, you need to have a clear mindset that you are not being a "begger" or a "thief". You are making a deal with a donor, who is willing to give you funds because he believes in the positive outcome it will generate, whether it is financially or socially. 
+Before you can ask for funding, you need to have a clear mindset that you are not being a "beggar" or a "thief". You are making a deal with a donor, who is willing to give you funds because he believes in the positive outcome it will generate, whether it is financially or socially. 
 
 You should set a positive and confident mentality, when asking for funds. If you do not believe in your offer, how can the donor. **Remember that:**
 
