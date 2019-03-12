@@ -30,18 +30,18 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 
 * **“Neuland”** \(2016\) - First experiment with crowd-innovation tech. We made an open call for better migration policies using [crowdicity](https://crowdicity.com/), did 7 workshops in different places, generated &gt;100 ideas with a crowd of 250 people, put them to a high-level jury, let 15 winning authors pitch their ideas to 250 politicians and other VIPs at some glitzy event, and published a [book](http://www.nzz-libro.ch/neuland-migration-schweiz-migrationspolitik-reformideen-foraus.html) with their ideas.
 * Several workshops in 2016/17, including with the global network, to figure out **requirements of the community.** Then long journey to evaluate technical options. The choice was made in December 2017.
-* Participation in the [**digitalswitzerland challenge**](https://challenge.digitalswitzerland.com/e-democracy-crowdsourced-think-tank-bet-at-even-money/) ****2017/18, competing with major tech companies for fame and glory. Secured 3-year funding by [Engagement Migros](https://www.engagement-migros.ch/en/pioneers/policy-kitchen).
+* Participation in the [**digitalswitzerland challenge**](https://challenge.digitalswitzerland.com/e-democracy-crowdsourced-think-tank-bet-at-even-money/) ****2017/18, competing with major tech companies for fame and glory. We secured a 3-year funding with  [Engagement Migros](https://www.engagement-migros.ch/en/pioneers/policy-kitchen).
 
 ### **Contemporary history**
 
 * Pilot campaign on **global biodiversity protection** since September 2018.
   * _**7 Workshops**_, including in [Berlin](https://www.policykitchen.com/node/65) in Partnership with Polis180 and the Bosch Alumni Network \(first case of transnational collaboration\).
-  * Rapidly _**built a network**_ and visibility among major stakeholders around the topic \(where we had neither networks nor expertise before\). This includes a [Jury](https://www.policykitchen.com/group/2/about) with the state secretary on foreign affairs, members of parliament, CEO of WWF, ...
-  * _**Generated 43 ideas**_, some of which were handed to the Swiss Delegation at the COP-14 on biodiversity. Currently in selection phase, will lead to publication.
-* Pilot campaign **“Towards an AI strategy for Switzerland”** since December 2018
-  * _**2 Workshops**_ in [Zurich](https://www.youtube.com/watch?v=Jlow-HpojLo&feature=youtu.be) and [San Francisco](https://www.policykitchen.com/node/122) in partnership with Swissnex. Participants include government, academia, NPO, UN, industry \(also Google & Microsoft\), civil society & youth
+  * Rapidly _**built a network**_ and visibility among major stakeholders around the topic \(where we neither had networks nor expertise before\). This includes a [Jury](https://www.policykitchen.com/group/2/about) with the state secretary on foreign affairs, members of parliament, CEO of WWF, etc...
+  * _**Generated 43 ideas**_, some of which were handed to the Swiss Delegation at the COP-14 on biodiversity. Currently in the next phase, will lead to publication.
+* Pilot campaign on **“Towards an AI strategy for Switzerland” -** December 2018
+  * _**2 Workshops**_ in [Zurich](https://www.youtube.com/watch?v=Jlow-HpojLo&feature=youtu.be) and [San Francisco](https://www.policykitchen.com/node/122) in partnership with Swissnex. Participants included governments, academia, NPO, UN, industry \(also Google & Microsoft\), civil society & youth
   * _**&gt;40 new users**_ and _**&gt;20 ideas**_ in 1 week.
-  * Ideas are _**submitted**_ to the working group on AI of the Swiss government.
+  * Ideas are _**submitted**_  to the working group on AI of the Swiss government.
 
 ## **So how does this thing actually work?**
 
@@ -49,14 +49,14 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 
 * “If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask… for once I know the proper question, I could solve the problem in less than five minutes.” \(Albert Einstein\)
 * _**Get feedback on your challenge question**_ from the target audience \(policy makers?\) of your result. This gets you a buy-in from the beginning.
-* Know what it should become at the end of the process: _**a paper? A blog series? A project?**_ Think big, start small.
+* Know what the challenge should become at the end of the process: _**a paper? A blog series? A project?**_ Think big, start small.
 
 ### **2. Set up a challenge**
 
 * Once you have a rough idea, get in touch with [policykitchen@foraus.ch](mailto:policykitchen@foraus.ch).
-* They will provide you with backend access and a _**proper on-boarding.**_
+* They will provide you with backend access and a _**proper on-boarding,**_ on how to use the platform.
 * Basically, you’ll need a challenge intro text and an image, clarity on the timeline and a selection of mechanism \(crowd, jury, none?\).
-* Below you will find a video tutorial on "How to create a challenge on Policy Kitchen". 
+* Below you will find _**a video tutorial**_ on _**"How to create a challenge on Policy Kitchen".**_ 
 
 {% embed url="https://www.youtube.com/watch?v=AtsQvXyeeTY&t=133s" %}
 
@@ -67,7 +67,7 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 * You will find below a [Policy Kitchen workshop design](policy-kitchen.md#policy-kitchen-workshop-design-template), yet feel free to make your own.
 * _**Get experts and spaces**_ early to avoid rushing with invitations.
 * Target your _**core community**_ and _**external stakeholders**_ ****of the issue - the magic is in the mix, ideally vertically \(junior / senior\) and horizontally \(different perspectives\).
-* Workshops tend to need some _**budget.**_ Consider event sponsoring or project based [fundraising](policy-kitchen.md#how-about-the-fundraising-part). We can help, yet better do a small thing than nothing at all.
+* Workshops tend to need some _**budget.**_ Consider event sponsoring or project based [fundraising](policy-kitchen.md#how-about-the-fundraising-part). We can help, yet it is better to do a small thing than nothing at all.
 
 ### **4. Engage the crowd**
 

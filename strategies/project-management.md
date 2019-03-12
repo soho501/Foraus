@@ -13,7 +13,7 @@ Establishing and managing a project/programme can be very difficult, especially 
 The project is proposed by the project leader and possibly another person before there is a project team. The project proposal includes the following steps: 
 
 * Development of the project idea in one of your programs.
-*  Coordination with the programme leader. 
+* Coordination with the programme leader. 
 * The project should be connected to a program \(1\) in order to receive support from the program team \(2\) and to facilitate an improved coordination.
 * Elaboration of the concept; if external partnerships and external funding are planned, the concept must be presented to the board at a board meeting. If no external partner or external funding is applied for, the project only needs to be coordinated with the programme leader and the programme coordinator.
 

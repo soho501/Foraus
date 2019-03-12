@@ -61,7 +61,7 @@ You should set a positive and confident mentality, when asking for funds. If you
 
 1. _**Establish and respect excluded markets**_ \(markets you do not want your think tank to be associated with\). 
 2. _**Determine top 3 promising markets**_ \(e.g. finance, IT, and Platform markets\)
-3. _**Per Market:**_ Establish a list of 50-100 corporations, then analyse and rank the top 5, identify the right contact person \(through e.g. Linkedin\) 
+3. _**Per Market:**_ Establish a list of 50-100 corporations, then analyse and rank the top 5, identify the right contact person \(through e.g. LinkedIn\) 
 4. _**Make an Offer:**_ it is better to sent it through these business networks/ platforms, than through email \(since they get drowned by emails\)
 
 #### Five components that help to evaluate a funding model’s appropriateness:
