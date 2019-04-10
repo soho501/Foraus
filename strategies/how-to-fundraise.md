@@ -13,9 +13,25 @@ Along with people, funds are a think tank’s main input, which makes fundraisin
 * Investments \(money\)
 * Fundraising tools and know-hows
 
-## Fundraising Models
+## Fundraising Cycle
 
-### Core funding
+### 1. Monitor for Opportunities
+
+Fundraising and searching for new funds is usually an on-going process for all think tanks, no matter what the fundraising models is. There are contentiously new opportunities for grants, projects, and other types of funds from different fronts: locally, regionally and internationally. Some of them are formulated as calls for applications, while others are simply potential donors for the think tanks to approach. Each approach can be followed through systematized methods. For instance, potential corporate donors or philanthropists can be found through monitoring and filtering mechanisms suited to the think tank’s needs.
+
+### 2. Evaluate & Decide
+
+Not every opportunity is worth pursuing. Applying systematically to everything that looks remotely related to a think tank’s work \(or similarly approaching anyone who has spare funds\) can never be a sensible fundraising strategy. This is why it is essential for a think tank to discuss identified opportunities in order to make sensible decisions. There can be formalised criteria to decide which calls to respond to \(or which donors to approach\) or informal discussions among senior researchers and staff \(e.g. during ‘executive committee’ or similar body meetings\), but it needs to be done consistently. Broadly speaking, think tanks should consider how potential work, grants or activities might affect the research agenda, the staff & managerial requirements they would impose, they type of communications they would entail and their potential for policy influence.
+
+### 3. Develop a Proposal
+
+### 4. Follow up & Report
+
+
+
+
+
+## Funding Models
 
 ### Contracts
 
@@ -28,6 +44,8 @@ Along with people, funds are a think tank’s main input, which makes fundraisin
 #### Subscriptions
 
 #### Event 
+
+## Core funding
 
 ## Fundraiser Mentality 
 
