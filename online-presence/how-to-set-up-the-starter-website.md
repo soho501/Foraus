@@ -2,7 +2,7 @@
 description: Step-by-step video & guide
 ---
 
-# How to set-up the Starter Website
+# Setting-up the Starter Website
 
 To support new members of the open think tank network to get a new website relatively quickly, we have developed a ‘starter think tank’ template on WordPress.
 

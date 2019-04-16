@@ -10,7 +10,7 @@
 
 ## Online Presence
 
-* [How to set-up the Starter Website](online-presence/how-to-set-up-the-starter-website.md)
+* [Setting-up the Starter Website](online-presence/how-to-set-up-the-starter-website.md)
 * [Website Building Blocks](online-presence/https-openthinktanknetwork.gitbook.io-project-edit-drafts-lsutmi3mmosrnhp-szc-products-1.why.md)
 * [Understanding GDPR](online-presence/understanding-gdpr.md)
 * [Mailchimp User Guide](online-presence/mailchimp-user-guide.md)
