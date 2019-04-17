@@ -13,31 +13,6 @@ Along with people, funds are a think tank’s main input, which makes fundraisin
 * Investments \(money\)
 * Fundraising tools and know-hows
 
-## Fundraising Cycle
-
-### 1. Monitor for Opportunities
-
-Fundraising and searching for new funds is usually an on-going process for almost all think tanks, no matter what the fundraising models is. There are contentiously new opportunities for grants, projects, and other types of funds from different fronts: locally, regionally and internationally. Some of them are formulated as calls for applications, while others are simply potential donors for your think tanks to approach. Each approach can be followed through systematized methods. For instance, potential corporate donors or philanthropists can be found through monitoring and filtering mechanisms suited to the think tank’s needs. 
-
-### 2. Evaluate & Decide
-
-However, not every opportunity is worth pursuing. Applying to anything that looks remotely related to a think tank’s work \(or equally approaching anyone who does donations\) can never be a logical fundraising strategy. For this reason, it is highly important for your think tank to analyze distinct opportunities, so you can make reasonable choices, as not every opportunity would fit your values and model. There can be a formalised criteria to choose which calls to apply for \(or which donors to contact\) or have informal discussions among your team \(e.g. annual team meetings\), but it needs to be done consistently. Generally speaking, your think tank should consider how potential contracts, grants or activities might affect your research agenda, team & managerial requirements, for example, if they would impose a specific type of communication and would want to potentially influence their own policy agenda. 
-
-### 3. Develop a Proposal
-
-When you decide to apply for a particular call or to address a potential donor with a proposal, the next stage occurs; developing and implementing the offer. This is very time-consuming, and even the most solid proposal do not assure success. Depending on the donor requirements, it can sometimes be avoided as they would request for a short concept paper before choosing specific interesting concepts for complete proposals. Nevertheless, it can be beneficial to have a short concept paper on hand, as in some cases these concepts can be further developed and refined for another proposal application, or especially if there are several donors necessary for the project. However, no matter the extension of the submitted proposal, it determines your think tanks operations in carrying out the work, once the funds are received. Even though some funders provide more flexibility than others, it is essential to write a proposal that to an extent can actually be completely carried out.
-
-_Here are some tips to keep in mind during this stage:_ 
-
-* Have sufficient time available for the proposal
-* Work in groups/ teams, it is usually better than individual work
-* Remember to collect feedback and ideas from various colleagues and researchers with various expertise. 
-*  Follow every available guideline and ensure you fulfil any requirements
-* Build on successful experiences from the past and learn from mistakes
-* Essentially, only ask for funds you actually need – do not promise more than you can deliver for a given amount. 
-
-
-
 ## Funding Models
 
 ### Contracts
@@ -56,19 +31,52 @@ _Here are some tips to keep in mind during this stage:_
 
 ## Core funding
 
+## Fundraising Cycle
+
+### 1. Monitor for Opportunities
+
+Fundraising and searching for new funds is usually an on-going process for almost all think tanks, no matter what the fundraising model is. There are contentiously new opportunities for grants, projects, and other types of funds from different fronts: locally, regionally and internationally. Some of them are formulated as calls for applications, while others are simply potential donors for your think tanks to approach. Each approach can be followed through systematized methods. For instance, potential corporate donors or philanthropists can be found through monitoring and filtering mechanisms suited to the think tank’s needs. 
+
+### 2. Evaluate & Decide
+
+However, not every opportunity is worth pursuing. Applying to anything that looks remotely related to a think tank’s work \(or equally approaching anyone who does donations\) can never be a logical fundraising strategy. For this reason, it is highly important for your think tank to analyze distinct opportunities, so you can make reasonable choices, as not every opportunity would fit your values and model. There can be a formalised criteria to choose which calls to apply for \(or which donors to contact\) or have informal discussions among your team \(e.g. annual team meetings\), but it needs to be done consistently. Generally speaking, your think tank should consider how potential contracts, grants or activities might affect your research agenda, team & managerial requirements, for example, if they would impose a specific type of communication and want to potentially influence their own policy agenda. 
+
+### 3. Develop a Proposal
+
+When you decide to apply for a particular call or to address a potential donor with a proposal, the next stage occurs; developing and implementing the offer. This is very time-consuming, and even the most solid proposal does not assure success. Depending on the donor requirements, it can sometimes be avoided as they would request for a short concept paper before choosing specific concepts for complete proposals. Nevertheless, it can be beneficial to have a short concept paper on hand, as in some cases these concepts can be further developed and refined for another proposal application, or especially if there are several donors necessary for the project. However, no matter the extension of the submitted proposal, it determines your think tanks operations in carrying out the work, once the funds are received. Even though some funders provide more flexibility than others, it is essential to write a proposal that to an extent can actually be completely carried out.
+
+_Here are some tips to keep in mind during this stage:_ 
+
+* Have sufficient time available for the proposal
+* Work in groups/ teams, it is usually better and less time consuming than individual work
+* Remember to collect feedback and ideas from various colleagues and researchers with various expertise. 
+*  Follow every available guideline and ensure you fulfil every requirement
+* Build on successful experiences from the past and learn from mistakes
+* Essentially, only ask for funds you actually need – do not promise more than you can deliver for a given amount. 
+
+### **4. Follow-up & Reporting**
+
+Subsequently, once you have received funds you tend to get an assortment of reporting requirements linked to them. This tends to be extremely time consuming for think tanks as donors have increasingly higher demands regarding output. Therefore, it is decisive to consider and know the specific requirements from the beginning of the project, so those in charge of fundraising or the project are accordingly prepared.  
+
+The report is usually supposed to display some form of information regarding its outputs, process, results, and to an extent impact. So, the donors can monitor and evaluate what the think tank is carrying out or accomplishing with the funds \(or not\). A good tip would be to simplify this information from different outputs of reporting into one organized file or google drive, so when the moment comes to report, it is all in one place, which can ultimately support your organisational, operational and strategic decision making process in next projects. 
+
 ## Fundraiser Mentality 
 
 Before you can ask for funding, you need to have a clear mindset that you are not being a "beggar" or a "thief". You are making a deal with a donor, who is willing to give you funds because he believes in the positive outcome it will generate, whether it is financially or socially. 
 
-You should set a positive and confident mentality, when asking for funds. If you do not believe in your offer, how can the donor. **Remember that:**
+You should set a positive and confident mentality, when asking for funds. If you do not believe in your offer, how can the donor. 
+
+**Remember that:**
 
 * You have something unique to offer
-* You are proud of what we do
+* You are proud of what you do
 * You are partners
 * You are not afraid to ask for support
 * Everyone is a fundraiser \(to an extent\)
 
 ## How to Find the Right Donors/ Donor Markets?
+
+**The donor markets available are:**
 
 * Companies
 * Foundation
@@ -101,11 +109,11 @@ You should set a positive and confident mentality, when asking for funds. If you
 
 These criteria can be challenged and/or modified. However, they offer a fairly basic yet comprehensive set of guidelines to assess if an organisation’s funding model is actually problematic in terms of its broader strategy.
 
-## What will and can we offer the donor/funder?
+## What will and can we offer the donor/ funders?
 
 There are **2 sides** in proposing an offer to the potential donor.
 
-1. **The Rational Part**: This entails the qualitative information on the outcomes of funding your think tank or project. For instance,the figures you are doing with your think tank or to fund a specific project. 
+1. **The Rational Part**: This entails the qualitative information on the outcomes of funding your think tank or project. For instance, the figures you are doing with your think tank or funding a specific project. 
 2. **The Emotional Part**: This entails your motives, the external effect it will generate, and your personal incentives. It is an important point, since you are trying to connect with the human being who is deciding if they should fund your think tank/project. Tell a story \(with images and/or videos\), not just sending in numbers and information.
 
 ## The Asking Process
@@ -114,11 +122,11 @@ Every donor is different and needs to be approached with different tactics. A re
 
 The research states that segmentation is useful since it can help think tanks to:
 
-* _Effectively communicate_ with their current funders and acknowledge their support;
-* _Concentrate their efforts_ on funders who would most likely fund them; and
+* _Effectively communicate_ with their current donors and acknowledge their support;
+* _Concentrate their efforts_ on donors who would most likely fund them; and
 * _Determine the probability_ of being able to persuade donors to fund them and/or continuously stay loyal to them.
 
-The study concluded, there are **7 different segments** **of Funders:**
+The study concluded, there are **7 different segments** **of Donors:**
 
 1. **Engaged Champion** - Invests time and gets friends & other people involved
 2. **Benefactor** - Funds in order to lead a good example
@@ -137,16 +145,16 @@ The 7 type of funders do not all correlate well with think tanks.The motivation 
 
 Therefore, to know what kind of donor you are approaching, you should:
 
-1. Get to know the potential donor\(s\) as a human being and their organisation/company. By using your networking contacts, profiling them, and/or researching about their funding processes. Try to figure out what kind of donor they are\)
+1. Get to know the potential donor\(s\) as a human being and their organisation/company. By using your networking contacts, profiling them, and/or researching about their funding processes. Try to figure out what kind of donor they are.
 2. Inform the potential donor\(s\) about your organisation
 3. Get them involved in your organisation \(e.g. Newsletter, Events,...\)
 4. Prepare the potential donor\(s\) 
 
-## Engaging with Funders/Donors
+## Engaging with Donors
 
-It is highly important to reinforce the positive decisions of the funder/donor for supporting your think tank. 
+It is highly important to reinforce the positive decisions of the donor for supporting your think tank. 
 
-**Say Thank You** - Always be humble and grateful, and very thankful towards the funder.
+**Say Thank You** - Always be humble and grateful, and very thankful towards the donor.
 
 **Proof of Usage** - You should be able to prove to them that you have been using the money for what it was intended for, preferably with a documentation. An annual report and if asked, a financial statement. 
 
