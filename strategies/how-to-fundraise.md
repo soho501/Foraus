@@ -54,11 +54,21 @@ The last funding source mentioned are sponsors, which are similar to clients, ye
 
 ### Charging Fees
 
-#### Membership:
+#### Membership
 
-#### Subscriptions:
+Subscription for a membership of your think tank is a great way to gain funds for your core funding and additional costs. Membership fees vary depending on the think tank and country it is located in. You can choose if members have a political power in your organisation, if there are different levels of members, if they receive first-hand access to events and publications. The variations are endless. 
 
-#### Event:
+Tips:
+
+* Make the membership as appealing as possible, so people subscribe
+* Have a clear membership strategy that is clear to follow
+* Do research on what the incentives people have on becoming a member, such as: to get networking opportunities, get exclusive content, get free access to events. Once you have that knowledge, you can form the levels and strategy around it, and thus charge for it! 
+
+#### Subscriptions
+
+
+
+#### Event
 
 ## Core funding
 

@@ -92,6 +92,8 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 
 ## **Policy Kitchen Workshop Design Template**
 
+{% embed url="https://www.youtube.com/watch?v=vFm\_g9OwDI0" caption="\*This video explains how to run a policy kitchen workshop " %}
+
 **Duration:** 4 Hours
 
 **Participants:** About _**10 - 40 people**_. We strongly encourage you to ensure diversity, both horizontally \(interdisciplinary, multiple sectors\) and vertically \(mixing senior and junior\).  
