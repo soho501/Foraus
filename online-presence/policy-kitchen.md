@@ -282,7 +282,7 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">20:00</td>
+      <td style="text-align:left">21:00</td>
       <td style="text-align:left">
         <p><b>Drinks &amp; Beer</b>
         </p>
