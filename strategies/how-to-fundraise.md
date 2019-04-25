@@ -83,8 +83,6 @@ Core Funding is often one of the main struggles of a think tank. It can be diffi
 
 * Ideally use all the ways listed above or chose specific ones that could work. You have to try your best, as you need to be able to pay your employees and work space. 
 
-
-
 ## Fundraising Cycle
 
 ### 1. Monitor for Opportunities
@@ -113,6 +111,8 @@ _Here are some tips to keep in mind during this stage:_
 Subsequently, once you have received funds you tend to get an assortment of reporting requirements linked to them. This tends to be extremely time consuming for think tanks as donors have increasingly higher demands regarding output. Therefore, it is decisive to consider and know the specific requirements from the beginning of the project, so those in charge of fundraising or the project are accordingly prepared.  
 
 The report is usually supposed to display some form of information regarding its outputs, process, results, and to an extent impact. So, the donors can monitor and evaluate what the think tank is carrying out or accomplishing with the funds \(or not\). A good tip would be to simplify this information from different outputs of reporting into one organized file or google drive, so when the moment comes to report, it is all in one place, which can ultimately support your organisational, operational and strategic decision making process in next projects. 
+
+\*[Source](http://politicsandideas.org/the-fundraising-cycle-building-from-an-opportunity-to-a-long-term-relationship/)
 
 ## Fundraiser Mentality 
 
