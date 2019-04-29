@@ -2,7 +2,7 @@
 
 ## Summary
 
-Funding is one of the main concerns for think tanks, especially since there are very few that have continuous endowments. Even though funding is what induces the possibility for think tanks to publish qualitative research and generate policy recommendations.
+Funding is one of the main concerns for think tanks, especially since there are very few who have continuous endowments. Even though funding is what induces the possibility for think tanks to publish qualitative research and generate policy recommendations.
 
 Along with people, funds are a think tank’s main input, which makes fundraising one of the most important steps when starting a think tank, however, also one of the hardest. 
 
@@ -23,26 +23,26 @@ One funding source are clients, which are categorized by a binding contract/ par
 
 * Depending on your position as a think tank, you have to watch out who your client is and if there will be any conflict of interests. So, do your research beforehand!
 * Watch out with VAT, as you are doing business here. 
-* Governments are good clients, yet be careful with private companies as issues with services could arise. Private companies interest is in gaining more profit, so keep that in mind. 
+* Governments are good clients, yet be careful with private companies as issues with services could arise. Private companies interest is in increasing their profit, so keep that in mind. 
 
 ### Foundations
 
-Another funding source are foundations, which are also categorized by a binding contract/ partnership with a particular transaction, but generally for a different cause. Foundations tend to give grants to actors/ projects for a specific ethical purpose, like for the greater good. However, foundations are an extremely diverse market with no general rules. They vary depending on what donor market you are approaching, in what field, and in what country. Governments, private foundations, philanthropic foundations, and international organisations all have funding opportunities with specific mandates on who to support. 
+Another funding source are foundations, which are also categorized by a binding contract/ partnership with a particular transaction, but generally for a different cause. Foundations tend to give grants to actors/ projects for a specific ethical purpose, like for the greater good. However, foundations are an extremely diverse market with no general rules. They vary depending on what donor market you are approaching, in what field, and in what country. Governments, private foundations, philanthropic foundations, and international organisations all have funding opportunities with specific mandates on why and who to support. 
 
 **Tips:**
 
 * Have an overview of different foundation markets, by always keeping on the lookout, physically and virtually.
-* Two ways to approach foundations are by having a unique and a good ethical purpose for your project and then finding a foundation that could be interested in it. OR Choose a donor and design a project to fit their needs.
+* Two ways to approach foundations are by having a unique and ethically good purpose for your project and then finding a foundation that could be interested in it. OR Choose a donor and design a project to fit their mandates.
 * However, your think tank will be more motivated and excited for an idea that you developed out of passion and interest rather than out of force and need. 
 
 ### Donors
 
-A different funding source are donors, which are categorized by giving donations without having a specific contract that includes a transaction for a particular activity. These funds are donated because they believe in you and your actions as an organization. An example is crowdfunding, which Agora used to establish and start their think tank. They developed a two-year business plan and made a video pitching their think tank and spreading it online through their network and the network of foraus. As a result, they were able to go through with their business plan and have become a fully established think tank. The people donated because they believed in the organisation but there was no particular agenda attached to it.
+A different funding source are donors, which are categorized by giving donations without having a specific contract that includes a transaction for a particular activity. They donate because they believe in you and your actions as an organization. An example is crowdfunding, which Agora used to establish and start their think tank. They developed a two-year business plan and made a video pitching their think tank and spreading it online through their network and the network of foraus. As a result, they were able to go through with their business plan and have become a fully established think tank. The people donated because they believed in their idea and organisation but there was no particular agenda attached to it.
 
 **Tips:**
 
 * What worked for Agora in London might not work for your think tank. It is an option, but it should not be your only funding source.
-* 
+
 ### Sponsors
 
 The last funding source mentioned are sponsors, which are similar to clients, yet they in return would only want visibility. In simple terms, they support your think tank, project, or event and in return you place their logo everywhere. Of course, this varies completely, some want to be more involved and some less. 
@@ -56,19 +56,23 @@ The last funding source mentioned are sponsors, which are similar to clients, ye
 
 #### Membership
 
-Subscription for a membership of your think tank is a great way to gain funds for your core funding and additional costs. Membership fees vary depending on the think tank and country it is located in. You can choose if members have a political power in your organisation, if there are different levels of members, if they receive first-hand access to events and publications. The variations are endless. 
+Subscription for a membership of your think tank is a great way to gain funds, for your core funding and additional costs. Membership fees and classifications can vary depending on the think tank and country it is located in. You can choose if members have a political power in your organisation, if there are different levels of members, or if they receive first-hand access to events and publications. The variations are endless. 
 
 Tips:
 
-* Make the membership as appealing as possible, so people subscribe
-* Have a clear membership strategy that is clear to follow
+* Make the membership as appealing as possible, so people actually subscribe
+* Have a clear membership strategy that is easy to follow
 * Do research on what the incentives people have on becoming a member, such as: to get networking opportunities, get exclusive content, get free access to events. Once you have that knowledge, you can form the levels and strategy around it, and thus charge for it! 
 
 #### Subscriptions
 
+Subscriptions to specific content can provide a standard service for a cost per week, month, year, etc. Examples would be, a subscription to your think tanks newsletter that appears once a month or a weekly international foreign policy news update that you send out per mail, so the person can stay updated on current events. You could provide these subscriptions for a small cost. For example, all subscribers can get a newsletter, but only those who pay get to read the latest articles or the full article. There are many ways to receive a small amount of funds for subscriptions. Another way, is offering network services or access to online platforms/ products. You can also play with layers of subscription; some content being free and some costly.
 
+A way to increase your funds is to possibly include free subscriptions to your services for your members. This way people are more likely inclined to become a member, which could come at a higher cost.
 
 #### Event
+
+Asking for a small contribution from attendees at your events is also a possible way to increase your funds. For example, it can cost €2 for people to attend the high profile panel event that you are organising and be free for your members. However, be aware to not use this method at the start of your think tank, as people would not be very willing to attend or contribute. 
 
 ## Core funding
 
@@ -81,36 +85,36 @@ Core Funding is often one of the main struggles of a think tank. It can be diffi
 2. Place a labour percentage higher than the actual cost. For example, the project manager has a higher salary than they actually do. This could be a hidden overhead and is easily justifiable. It is a little sneaky, but you have to sell it somehow. 
 3. Include lines for labour or goods that are necessary for the project even though they would not directly be a part of it, but still linked. For example, money for a new laptop that would be used by a team member working on the project. This again is then used for the overhead budget. 
 
-* Ideally use all the ways listed above or chose specific ones that could work. You have to try your best, as you need to be able to pay your employees and work space. 
+* Ideally use all the ways listed above or chose specific ones that could work. You have to try your best, as you need to be able to pay your employees, work space, and to an extent publications. 
 
 ## Fundraising Cycle
 
 ### 1. Monitor for Opportunities
 
-Fundraising and searching for new funds is usually an on-going process for almost all think tanks, no matter what the fundraising model is. There are contentiously new opportunities for grants, projects, and other types of funds from different fronts: locally, regionally and internationally. Some of them are formulated as calls for applications, while others are simply potential donors for your think tanks to approach. Each approach can be followed through systematized methods. For instance, potential corporate donors or philanthropists can be found through monitoring and filtering mechanisms suited to the think tank’s needs. 
+Fundraising and searching for new funds is usually an on-going process for almost all think tanks, no matter what their fundraising model is. There are contentiously new opportunities for grants, projects, and other types of funds from different fronts: locally, regionally and internationally. Some of them are formulated as calls for applications, while others are simply potential donors for your think tanks to approach. Each approach can be followed through a systematized method. For instance, potential corporate donors or philanthropists can be found through monitoring and filtering mechanisms suited to the think tank’s needs. 
 
 ### 2. Evaluate & Decide
 
-However, not every opportunity is worth pursuing. Applying to anything that looks remotely related to a think tank’s work \(or equally approaching anyone who does donations\) can never be a logical fundraising strategy. For this reason, it is highly important for your think tank to analyze distinct opportunities, so you can make reasonable choices, as not every opportunity would fit your values and model. There can be a formalised criteria to choose which calls to apply for \(or which donors to contact\) or have informal discussions among your team \(e.g. annual team meetings\), but it needs to be done consistently. Generally speaking, your think tank should consider how potential contracts, grants or activities might affect your research agenda, team & managerial requirements, for example, if they would impose a specific type of communication and want to potentially influence their own policy agenda. 
+However, not every opportunity is worth pursuing. Applying to anything that looks remotely related to a think tank’s work \(or equally approaching anyone who does donations\) can never be a logical fundraising strategy. For this reason, it is highly important for your think tank to analyze distinct opportunities, so you can make reasonable choices, as not every opportunity would fit to your values and model. There can be a formalised criteria to choose from, which calls to apply for \(or which donors to contact\) or have informal discussions among your team \(e.g. annual team meetings\), but it needs to be done consistently. Generally speaking, your think tank should consider how potential contracts, grants or activities might affect your research agenda, team & managerial requirements, for example, if they would want to impose a specific type of communication and potentially influence their own policy agenda. 
 
 ### 3. Develop a Proposal
 
-When you decide to apply for a particular call or to address a potential donor with a proposal, the next stage occurs; developing and implementing the offer. This is very time-consuming, and even the most solid proposal does not assure success. Depending on the donor requirements, it can sometimes be avoided as they would request for a short concept paper before choosing specific concepts for complete proposals. Nevertheless, it can be beneficial to have a short concept paper on hand, as in some cases these concepts can be further developed and refined for another proposal application, or especially if there are several donors necessary for the project. However, no matter the extension of the submitted proposal, it determines your think tanks operations in carrying out the work, once the funds are received. Even though some funders provide more flexibility than others, it is essential to write a proposal that to an extent can actually be completely carried out.
+When you decide to apply for a particular call or to address a potential donor with a proposal, the next stage occurs; developing and implementing the offer. This is very time-consuming, and even the most solid proposals do not assure success. Depending on the donor requirements, it can sometimes be avoided as few would request for a short concept paper before choosing specific concepts for a complete proposal. Nevertheless, it can be beneficial to have a short concept paper on hand, as in some cases these concepts can be further developed and refined for another proposal application, or especially if there are several donors necessary for the project. However, no matter the extension of the submitted proposal, it needs to determine your think tanks operations in carrying out the work, once the funds are received. Even though some funders provide more flexibility than others, it is essential to write a proposal that to an extent can actually be completely carried out.
 
 _Here are some tips to keep in mind during this stage:_ 
 
 * Have sufficient time available for the proposal
 * Work in groups/ teams, it is usually better and less time consuming than individual work
-* Remember to collect feedback and ideas from various colleagues and researchers with various expertise. 
+* Remember to collect feedback and ideas from various colleagues and researchers with various expertise 
 *  Follow every available guideline and ensure you fulfil every requirement
 * Build on successful experiences from the past and learn from mistakes
 * Essentially, only ask for funds you actually need – do not promise more than you can deliver for a given amount. 
 
 ### **4. Follow-up & Reporting**
 
-Subsequently, once you have received funds you tend to get an assortment of reporting requirements linked to them. This tends to be extremely time consuming for think tanks as donors have increasingly higher demands regarding output. Therefore, it is decisive to consider and know the specific requirements from the beginning of the project, so those in charge of fundraising or the project are accordingly prepared.  
+Subsequently, once you have received funds, you tend to get an assortment of reporting requirements linked to them. This tends to be extremely time consuming for think tanks as donors have increasingly higher demands regarding output. Therefore, it is decisive to consider and know the specific requirements from the beginning of the project, so those in charge of fundraising or the project are accordingly prepared.  
 
-The report is usually supposed to display some form of information regarding its outputs, process, results, and to an extent impact. So, the donors can monitor and evaluate what the think tank is carrying out or accomplishing with the funds \(or not\). A good tip would be to simplify this information from different outputs of reporting into one organized file or google drive, so when the moment comes to report, it is all in one place, which can ultimately support your organisational, operational and strategic decision making process in next projects. 
+The report is usually supposed to display some form of information regarding its outputs, process, results, and to an extent impact. So, the donors can monitor and evaluate what the think tank is carrying out or accomplishing with the funds \(or not\). A good tip would be to simplify this information from different outputs of reporting into one organized file or google drive, so when the moment comes to report, it is all in one place, which can ultimately support your organisational, operational and strategic decision making process in your next projects. 
 
 \*[Source](http://politicsandideas.org/the-fundraising-cycle-building-from-an-opportunity-to-a-long-term-relationship/)
 
@@ -156,10 +160,10 @@ You should set a positive and confident mentality, when asking for funds. If you
 #### Five components that help to evaluate a funding model’s appropriateness:
 
 1. _**Dependable:**_ Funds that are random and non-dependable don't tend to help the think tank in the long term or in their sustainability. 
-2. _**Diverse:**_  Funds should come from various sources, additionally various different kinds of sources in order to keep your funds unbiased and nonpartisan. However, be aware to not have the various funding cycles coincide as well as too many sources as the administrative tasks and delivery will become a burden.
-3. _**Acceptable conditions:**_ Always be careful that the project conditions that come in hand with the funding contract, do not interfere or influence your policy work. Preferably, the donors and grantees should aim to refrain from extreme bureaucratic or restrictive conditions. Under some circumstances, as working with large donors like the EU,  it should not be shunned although it imposes high administrative efforts. _Tip:_ ALWAYS pay attention to the small print in the contracts. 
-4. _**Independent:**_ The general condition for a good funding model is to always have guarantee that your think tank stays independent to govern itself; like deciding how to run the organisation, which issues to pursue, and so forth.
-5. _**Transparent:**_
+2. _**Diverse:**_  Funds should come from various sources, additionally various different kinds of sources in order to keep your funds unbiased and nonpartisan. However, be aware to not have the various funding cycles coincide as well as have too many sources as the administrative tasks and delivery will become a burden.
+3. _**Acceptable conditions:**_ Always be careful that the project conditions that come in hand with the funding contract, do not interfere or influence your policy work. Preferably, the donors and grantees should aim to refrain from extreme bureaucratic or restrictive conditions. Under some circumstances, as working with large donors like the EU,  it should not be shunned although it imposes high administrative efforts. _Tip:_ ALWAYS pay attention to the small print in contracts. 
+4. _**Independent:**_ The general condition for a good funding model is to always have a guarantee that your think tank stays independent to govern itself; like deciding how to run the organisation, which issues to pursue, and so forth.
+5. _**Transparent:**_ Finally, an increased distress is related to sources and the ability to track the origin of funds that think tanks receive and the main conditions and requirements attached to them. So, always be transparent with your funds and expenses, then no problems should occur. 
 
 These criteria can be challenged and/or modified. However, they offer a fairly basic yet comprehensive set of guidelines to assess if an organisation’s funding model is actually problematic in terms of its broader strategy.
 
@@ -205,6 +209,8 @@ Therefore, to know what kind of donor you are approaching, you should:
 4. Prepare the potential donor\(s\) 
 
 ### Pitching Tips
+
+
 
 ## Engaging with Donors
 
