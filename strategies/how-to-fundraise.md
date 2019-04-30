@@ -193,13 +193,13 @@ The study concluded, there are **7 different segments** **of Donors:**
 5. **Thoughtful Philanthropist** - Funds and supports to make an impact
 6. **Ad Hoc Giver** - Funds because he is asked to
 
-The 7 type of funders do not all correlate well with think tanks.The motivation of every donor also varies accordingly. Some donors: 
+The 7 type of donors do not all correlate well with think tanks._**The motivation of every donor also varies accordingly.**_ Some donors: 
 
-* Are driven by the cause: such as the thoughtful philanthropist, the loyal supporter, and the engaged champion
-* Are driven by personal links, like a friend, former colleague, or university alumni: such as the benefactor
-* Need to perceive the cause as a duty to society: such as the benefactor, and the good citizen
-* Need to be seen as role models: such as the thoughtful philanthropist, and the engaged champion
-* Require an impact, they are only interested in the outcome it could generate and would want it for the short run; such as the loyal supporter, engagement champion, and thoughtful philanthropist. 
+* _Are driven by the cause:_ such as the thoughtful philanthropist, the loyal supporter, and the engaged champion
+* _Are driven by personal links,_ like a friend, former colleague, or university alumni: such as the benefactor
+* _Need to perceive the cause as a duty to society:_ such as the benefactor, and the good citizen
+* _Need to be seen as role models:_ such as the thoughtful philanthropist, and the engaged champion
+* _Require an impact,_ they are only interested in the outcome it could generate and would want it for the short run_;_ such as the loyal supporter, engagement champion, and thoughtful philanthropist. 
 
 Therefore, to know what kind of donor you are approaching, you should:
 
@@ -210,11 +210,22 @@ Therefore, to know what kind of donor you are approaching, you should:
 
 ### Pitching Tips
 
+_**Before your Pitch:**_
 
+* If a specific foundation has an official application process,  it would be better to start a conversation with people or a person in the foundation, before submitting your proposal. For example, writing an email to the contact person, introducing yourself and your organisation. This would help you make it more personal, and  allows your organisation to stand out. 
+* Try to make it more personal by asking the contact person for a coffee, or inviting them to an event, as it always helps to put a name to a face. This way you can also ask questions regarding the application process, and give a more personal explanation and view into your organisation.
+* When you meet them, listen to their advise and even more carefully to their needs.
+* Sometimes you do not know who the contact person is, in that case ask around in your network if someone knows someone in the foundation, or if someone has collaborated with the foundation. Use your network to your advantage when fundraising; which is why networking and fundraising comes hand in hand. For more information on how to network, click [here](the-art-of-networking.md). 
+
+_**While Pitching:**_ 
+
+* When you pitch your idea, be confident and be convinced of your project/ idea. Show your enthusiasm for the project and your future collaboration.
+* Try to engage them during your pitch.
+* Design your pitch in an exciting and captivating way, in order for them to get excited about the project as well. 
 
 ## Engaging with Donors
 
-It is highly important to reinforce the positive decisions of the donor for supporting your think tank. 
+After receiving funds from a donor, it is highly important to reinforce the positive decisions of the donor for supporting your think tank. 
 
 **Say Thank You** - Always be humble and grateful, and very thankful towards the donor.
 
