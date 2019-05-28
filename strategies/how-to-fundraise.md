@@ -6,6 +6,8 @@ Funding is one of the main concerns for think tanks, especially since there are 
 
 Along with people, funds are a think tank’s main input, which makes fundraising one of the most important steps when starting a think tank, however, also one of the hardest. 
 
+{% embed url="https://www.youtube.com/watch?v=cli8qwvFrlc&list=PLkYoI-gSYvIYUQ4uQCpuR-GaPZCYtmEcI&index=5&t=0s" caption="\*This video explains the fundraising cycle with tips and methods" %}
+
 ## Fundraising Requirements
 
 * A Donor Market
@@ -132,7 +134,7 @@ You should set a positive and confident mentality, when asking for funds. If you
 * You are not afraid to ask for support
 * Everyone is a fundraiser \(to an extent\)
 
-## How to Find the Right Donors/ Donor Markets?
+## Finding the Right Donors/ Donor Markets
 
 **The donor markets available are:**
 
