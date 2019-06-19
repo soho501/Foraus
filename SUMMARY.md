@@ -28,4 +28,5 @@
 * [The Art of Networking](strategies/the-art-of-networking.md)
 * [Fundraising](strategies/how-to-fundraise.md)
 * [Programme & Project Management](strategies/project-management.md)
+* [Business Plan Strategy](strategies/business-plan-strategy.md)
 
