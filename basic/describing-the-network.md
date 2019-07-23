@@ -23,7 +23,7 @@ description: >-
 
 
 
-* _**DE:**_ \[Think Tank\] ist Teil vom Open Think Tank Network, wo verschiedene offene grassroots Think-Tanks gemeinsam an Schlüsselthemen in internationalen Angelegenheiten zusammenarbeiten. Die Think Tanks der Mitglieder sind der Entwicklung konstruktiver, kohärenter und zukunftsorientierter politischer Lösungen verpflichtet mit dem Ziel, eine Kultur der offenen Diskussion und Diskussion zu fördern. Sie sind alle unparteiisch und bemühen sich, so umfassend wie möglich zu sein.
+* _**DE:**_ \[Think Tank\] ist Teil vom Open Think Tank Network, wo verschiedene offene grassroots Think-Tanks gemeinsam an Schlüsselthemen in internationalen Angelegenheiten zusammenarbeiten. Die Think Tanks der Mitglieder sind der Entwicklung konstruktiver, kohärenter und zukunftsorientierter politischer Lösungen verpflichtet mit dem Ziel, eine Kultur der offenen Diskussion  zu fördern. Sie sind alle unparteiisch und bemühen sich, so umfassend wie möglich zu sein.
 
 
 
