@@ -32,11 +32,11 @@ _Check, whether you are able to:_
 
 _There are five rules of thumb:_
 
-1. It is not an academic paper, so keep the style _'**catchy'**_
+1. It is not an academic paper, so keep the style _'**journalistic'**_
 2. Just like in the news, the most _**important content comes first**_
-3. Write _**your opinion**_
-4. Just _**one message**_ per blog-post
-5. _**Max. 3500**_ characters \(including spaces\)
+3. _State **your opinion**_ and use quotes purposefully
+4. Just _**one  keymessage**_ per blog-post
+5. _**Max. 800**_ words, ideally 600-700. 
 
 \*See below for how to write a Blog Post. 
 
@@ -177,7 +177,7 @@ The foraus blog is a forum that is made available to both foraus members and gue
 
 _**The Set-up**_
 
-As with news, the most important thing first. The central idea and the issue, should be at the beginning. Not everything has to be explained right away, that's what the text is for. But it should be clear what the article is about. Then, the text needs a guiding theme, a lead to the topic: it should lead from A to B in a comprehensible way. Delete secondary thoughts \(possibly use them in another blog entry\). 
+Your blog should include 2-3 main arguments. As with news, the most important thing first. The central idea and the issue, should be at the beginning. Not everything has to be explained right away, that's what the text is for. But it should be clear what the article is about. Then, the text needs a guiding theme, a lead to the topic: it should lead from A to B in a comprehensible way. Delete secondary thoughts \(possibly use them in another blog entry\). Moreover, the blog should include a concrete policy recommendations
 
 _Tips:_ already formulate the lead before writing the article. Then you will clearly know what you want to write about. Moreover, it is great to end the blog with a provocative idea or question in order to start a discussion.
 
