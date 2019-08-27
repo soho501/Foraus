@@ -10,5 +10,7 @@ The «Open Think Tank Network» which emerged out of the «_foraus_ global» pro
 
 This is a live knowledge repository, where we collect and share the experiences as well as extensive knowledge from the members of the Open Think Tank Network. Together, we have more than 10 years of experience in building open think tanks all around Europe.  
 
-{% embed url="https://www.youtube.com/watch?v=mQWvy1-w6Jg" %}
+{% embed url="https://youtu.be/NyUWCPnyBK8" %}
+
+
 

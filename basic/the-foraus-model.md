@@ -4,7 +4,7 @@
 
 _foraus_ \(Swiss Forum on Foreign Policy\) is an independent grassroots think tank on foreign policy based in Switzerland. foraus generates independent, high quality recommendations for Swiss foreign policy decision makers and the public, thereby bridging the gap between academia and politics. Its non-partisan approach aims to promote an open dialogue and an informed decision-making on all aspects of Swiss foreign policy. foraus is a grassroots organisation that strongly believes in crowd-sourcing methods and digital collaboration. Its success as a think tank is based on its members’ voluntary commitment. Members are primarily graduates and young professionals, active in a nationwide network of young researchers and foreign policy enthusiasts with the common goal to generate maximum impact.
 
-
+{% embed url="https://www.youtube.com/watch?v=mQWvy1-w6Jg&t=34s" %}
 
 ### Our Identity & Core Values
 
