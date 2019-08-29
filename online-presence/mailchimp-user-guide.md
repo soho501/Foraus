@@ -40,7 +40,7 @@ In order to send any emails please follow these steps:
 
 ![\(In the image we are selecting the people that are in a Regional Group\)](https://lh5.googleusercontent.com/ksheGaXkypajzqwRI5yRqa2BkJUpqAlpoL6i6wWBEPtYfx8KtzH1J_rq2HB3tIch7aG-JM8fgpjbNFMAmpMxQixwv46kP01YEVzjtUU7ZKjlMCxusM7j0HgGhvOmJehbEcBh3Ugd)
 
-4. Fill the **Form** and **Subject** information and save them.
+4. Fill the **From** and **Subject** information and save them.
 
 ![](https://lh6.googleusercontent.com/nb0CLhw4_wqQXETsVusw6yGMwXrSq1KjpCkclaUpP7WeSdNwqpse7mFQSJztWIz26tmHi0PnHOSeUOB7nRj8oQZflEg0gfvlV_YO8_M6DJMjqkipqrZinVhf4g9ncBs5hirJccUt)
 
