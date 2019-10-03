@@ -34,14 +34,29 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 
 ### **Contemporary history**
 
-* Pilot campaign on **global biodiversity protection** since September 2018.
-  * _**7 Workshops**_, including in [Berlin](https://www.policykitchen.com/node/65) in Partnership with Polis180 and the Bosch Alumni Network \(first case of transnational collaboration\).
-  * Rapidly _**built a network**_ and visibility among major stakeholders around the topic \(where we neither had networks nor expertise before\). This includes a [Jury](https://www.policykitchen.com/group/2/about) with the state secretary on foreign affairs, members of parliament, CEO of WWF, etc...
-  * _**Generated 43 ideas**_, some of which were handed to the Swiss Delegation at the COP-14 on biodiversity. Currently in the next phase, will lead to publication.
-* Pilot campaign on **“Towards an AI strategy for Switzerland” -** December 2018
-  * _**2 Workshops**_ in [Zurich](https://www.youtube.com/watch?v=Jlow-HpojLo&feature=youtu.be) and [San Francisco](https://www.policykitchen.com/node/122) in partnership with Swissnex. Participants included governments, academia, NPO, UN, industry \(also Google & Microsoft\), civil society & youth
-  * _**&gt;40 new users**_ and _**&gt;20 ideas**_ in 1 week.
-  * Ideas are _**submitted**_  to the working group on AI of the Swiss government.
+* Pilot challenges on [**Biodiversity**](https://www.policykitchen.com/search/groups/biodiversity?type=challenge) \(autumn 2018\)
+
+  * _7 workshops_, including in[ Berlin](https://www.policykitchen.com/node/65) in partnership with Polis180 and the Bosch Alumni Network \(first case of transnational collaboration\).
+  * Rapidly _built a network_ and visibility among major stakeholders around the topic \(where we neither had networks nor expertise before\). This includes a[ Jury](https://www.policykitchen.com/group/2/about) with the state secretary on foreign affairs, members of parliament, CEO of WWF, etc...
+  * _Generated 43 ideas_, some of which were handed to the Swiss Delegation at the COP-14 on biodiversity. Currently in the next phase, will lead to publication.
+
+* The challenge “[**Towards a Swiss AI Strategy**](https://www.policykitchen.com/group/11/ideas)” \(winter 2018/19\):
+
+  * _3 workshops_ were held in Switzerland and San Francisco
+  * It aimed at generating inputs for the _Swiss Federal Working Group on AI_
+  * In collaboration with swissnex San Francisco and Microsoft, 68 participants representing youth, industry, policy makers, academia, and civil society _generated 38 ideas_ for the working group. A summary can be found[ here](https://www.foraus.ch/2019/02/20/switzerland-to-confirm-robot-as-cabinet-member/).
+
+* The challenge “[**EU Digital Policy**](https://www.policykitchen.com/group/11/stream)” \(spring 2019\):
+
+  * This was launched by [**Polis180**](https://polis180.org/), in collaboration with [**Ponto**](https://www.pontothinktank.org/)\*\*\*\*
+  * _Several workshops_ were held in Berlin, Heidelberg and Vienna on giving young voters the opportunity to participate actively in shaping and improving the Digital Policy of the European Union
+  * The 10 best demands were then selected, put together and _published_ in[ this](http://polis180.org/wp-content/uploads/2018/05/Polis-Brief-9_Brief-Format2.pdf) paper. Since then, they have been further _discussed_ with members of the European Parliament at the Polis180[ **event**](https://polis180.org/events/26-sep-fuer-eine-gerechtere-zukunftsorientierte-digitalpolitik-in-europa-vorstellung-forderungskatalog-der-policy-kitchen-digitalisierung/) on 26th September 2019 in Berlin.
+
+* The challenge on “[**Towards an AI strategy for Switzerland**](https://www.policykitchen.com/group/towards-inclusive-future-ai/about)” \(spring 2019\):
+  * _2 workshops_ in[ **Zurich**](https://www.youtube.com/watch?v=Jlow-HpojLo&feature=youtu.be) and[ **San Francisco**](https://www.policykitchen.com/node/122) in partnership with Swissnex. Participants included governments, academia, NPO, UN, industry \(also Google & Microsoft\), civil society & youth
+  * More than _40 new users_ and more than _20 ideas_ in 1 week.
+  * Ideas have been submitted to the working group on AI of the _Swiss government_. 
+* Further challenges led by members of the[ **Open Think Tank Network**](https://www.openthinktank.org/about-us/) include[ **Swiss China policy**](https://www.policykitchen.com/group/switzerlands-economic-interests-china/about),[ **EU cultural policy**](https://www.policykitchen.com/group/16/home),[ **UK migration policy**](https://www.policykitchen.com/group/towards-fairer-uk-immigration-system) and more.
 
 ## **So how does this thing actually work?**
 
