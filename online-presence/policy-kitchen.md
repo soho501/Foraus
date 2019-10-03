@@ -11,6 +11,8 @@ _foraus_ secured funding over three years for improving the platform, building k
 
 Get a sense at [**www.policykitchen.com**](http://www.policykitchen.com)
 
+Policy Kitchen is supported by[: Engagement Migros](https://www.engagement-migros.ch/en/pioneers/policy-kitchen)
+
 ## **Why? - The Open Think Tank Network is more than the sum of its parts.**
 
 When working on issues of transnational relevance, it’s silly to stay inside the national bubble. We will make better policy recommendations when drawing on a transnational network. We will also have more impact with coordinated communications to our respective governments. We are in fact experimenting with ways to make global governance more democratic. Why not?  
@@ -24,15 +26,7 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
 * We invest in developing the platform a**ccording to your needs.**
 * You can use Policy Kitchen for your **fundraising** pitches - it has made it easier for us to get money, and it will make it easier for you, too.
 
-## Historical Context 
-
-### Prehistoric
-
-* **“Neuland”** \(2016\) - First experiment with crowd-innovation tech. We made an open call for better migration policies using [crowdicity](https://crowdicity.com/), did 7 workshops in different places, generated &gt;100 ideas with a crowd of 250 people, put them to a high-level jury, let 15 winning authors pitch their ideas to 250 politicians and other VIPs at some glitzy event, and published a [book](http://www.nzz-libro.ch/neuland-migration-schweiz-migrationspolitik-reformideen-foraus.html) with their ideas.
-* Several workshops in 2016/17, including with the global network, to figure out **requirements of the community.** Then long journey to evaluate technical options. The choice was made in December 2017.
-* Participation in the [**digitalswitzerland challenge**](https://challenge.digitalswitzerland.com/e-democracy-crowdsourced-think-tank-bet-at-even-money/) ****2017/18, competing with major tech companies for fame and glory. We secured a 3-year funding with  [Engagement Migros](https://www.engagement-migros.ch/en/pioneers/policy-kitchen).
-
-### **Contemporary history**
+## Highlights of Policy Kitchen 
 
 * Pilot challenges on [**Biodiversity**](https://www.policykitchen.com/search/groups/biodiversity?type=challenge) \(autumn 2018\)
 
