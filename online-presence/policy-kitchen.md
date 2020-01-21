@@ -33,23 +33,26 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
   * _7 workshops_, including in[ Berlin](https://www.policykitchen.com/node/65) in partnership with Polis180 and the Bosch Alumni Network \(first case of transnational collaboration\).
   * Rapidly _built a network_ and visibility among major stakeholders around the topic \(where we neither had networks nor expertise before\). This includes a[ Jury](https://www.policykitchen.com/group/2/about) with the state secretary on foreign affairs, members of parliament, CEO of WWF, etc...
   * _Generated 43 ideas_, some of which were handed to the Swiss Delegation at the COP-14 on biodiversity. Currently in the next phase, will lead to publication.
+  * In autumn 2019, the [paper](https://www.foraus.ch/wp-content/uploads/2019/11/20191106_Policy-Kitchen-Biodiversity_WEB.pdf) "Grassroots ideas to halt biodiversity loss" was published and presented at a multi-stakeholder [event ](https://www.policykitchen.com/group/2/home/topic/biodiversity-challenge-completed-publication-out-now)in Bern.
 
 * The challenge “[**Towards a Swiss AI Strategy**](https://www.policykitchen.com/group/11/ideas)” \(winter 2018/19\):
 
   * _3 workshops_ were held in Switzerland and San Francisco
   * It aimed at generating inputs for the _Swiss Federal Working Group on AI_
   * In collaboration with swissnex San Francisco and Microsoft, 68 participants representing youth, industry, policy makers, academia, and civil society _generated 38 ideas_ for the working group. A summary can be found[ here](https://www.foraus.ch/2019/02/20/switzerland-to-confirm-robot-as-cabinet-member/).
+  * In autumn 2019, the [paper](https://www.foraus.ch/wp-content/uploads/2019/10/20191022_Making-Sense-of-AI_WEB-1.pdf) "Making Sense of Artificial Intelligence - Why Switzerland Should Support a Scientific UN Panel To Assess The Rise of AI" was published and presented together with another paper from a Policy Kitchen challenge in front of representatives from international organizations, the Swiss government, academia, civil society organizations and the wider public. This [event](https://www.policykitchen.com/swissaistrategy/topic/towards-ai-strategy-challenge-completed-publication-out-now) took place in Geneva. 
 
 * The challenge “[**EU Digital Policy**](https://www.policykitchen.com/group/11/stream)” \(spring 2019\):
 
   * This was launched by [**Polis180**](https://polis180.org/), in collaboration with [**Ponto**](https://www.pontothinktank.org/)\*\*\*\*
   * _Several workshops_ were held in Berlin, Heidelberg and Vienna on giving young voters the opportunity to participate actively in shaping and improving the Digital Policy of the European Union
-  * The 10 best demands were then selected, put together and _published_ in[ this](http://polis180.org/wp-content/uploads/2018/05/Polis-Brief-9_Brief-Format2.pdf) paper. Since then, they have been further _discussed_ with members of the European Parliament at the Polis180[ **event**](https://polis180.org/events/26-sep-fuer-eine-gerechtere-zukunftsorientierte-digitalpolitik-in-europa-vorstellung-forderungskatalog-der-policy-kitchen-digitalisierung/) on 26th September 2019 in Berlin.
+  * The 10 best demands were then selected, put together and _published_ in[ this](http://polis180.org/wp-content/uploads/2018/05/Polis-Brief-9_Brief-Format2.pdf) paper. Since then, they have been further _discussed_ with members of the European Parliament at the Polis180[ event](https://polis180.org/events/26-sep-fuer-eine-gerechtere-zukunftsorientierte-digitalpolitik-in-europa-vorstellung-forderungskatalog-der-policy-kitchen-digitalisierung/) on 26th September 2019 in Berlin.
 
 * The challenge on “[**Towards an AI strategy for Switzerland**](https://www.policykitchen.com/group/towards-inclusive-future-ai/about)” \(spring 2019\):
   * _2 workshops_ in[ **Zurich**](https://www.youtube.com/watch?v=Jlow-HpojLo&feature=youtu.be) and[ **San Francisco**](https://www.policykitchen.com/node/122) in partnership with Swissnex. Participants included governments, academia, NPO, UN, industry \(also Google & Microsoft\), civil society & youth
   * More than _40 new users_ and more than _20 ideas_ in 1 week.
-  * Ideas have been submitted to the working group on AI of the _Swiss government_. 
+  * Ideas have been submitted to the working group on AI of the _Swiss government_.
+  * The resulting [paper](https://www.foraus.ch/wp-content/uploads/2019/10/20191022_Policy-Kitchen-AI_WEB-2.pdf) "Towards an Inclusive Future in AI - A Global Participatory Process" was published in autumn 2019 and subsequently presented at a multi-stakeholder [event](https://www.policykitchen.com/group/19/stream), together with the paper on a Swiss AI strategy, in Geneva.  
 * Further challenges led by members of the[ **Open Think Tank Network**](https://www.openthinktank.org/about-us/) include[ **Swiss China policy**](https://www.policykitchen.com/group/switzerlands-economic-interests-china/about),[ **EU cultural policy**](https://www.policykitchen.com/group/16/home),[ **UK migration policy**](https://www.policykitchen.com/group/towards-fairer-uk-immigration-system) and more.
 
 ## **So how does this thing actually work?**
