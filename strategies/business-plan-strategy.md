@@ -185,7 +185,7 @@ It is beneficial to note that your business plan is now not set in stone; it can
 
 ## Templates & Examples
 
-![Example on your business plan can look like](../.gitbook/assets/non-profit-business-plan-template-_-free-pdf-and-ppt-download-by-slidebean-google-chrome-04.07.2019%20%283%29.png)
+![Example on your business plan can look like](../.gitbook/assets/non-profit-business-plan-template-_-free-pdf-and-ppt-download-by-slidebean-google-chrome-04.07.2019%20%282%29.png)
 
 _Free Templates for NGO's_
 

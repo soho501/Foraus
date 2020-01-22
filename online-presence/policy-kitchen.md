@@ -55,52 +55,27 @@ Learn more on the network, click [here.](../basic/describing-the-network.md)
   * The resulting [paper](https://www.foraus.ch/wp-content/uploads/2019/10/20191022_Policy-Kitchen-AI_WEB-2.pdf) "Towards an Inclusive Future in AI - A Global Participatory Process" was published in autumn 2019 and subsequently presented at a multi-stakeholder [event](https://www.policykitchen.com/group/19/stream), together with the paper on a Swiss AI strategy, in Geneva.  
 * Further challenges led by members of the[ **Open Think Tank Network**](https://www.openthinktank.org/about-us/) include[ **Swiss China policy**](https://www.policykitchen.com/group/switzerlands-economic-interests-china/about),[ **EU cultural policy**](https://www.policykitchen.com/group/16/home),[ **UK migration policy**](https://www.policykitchen.com/group/towards-fairer-uk-immigration-system) and more.
 
-## **So how does this thing actually work?**
 
-### **1. Define challenge**
 
-* “If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask… for once I know the proper question, I could solve the problem in less than five minutes.” \(Albert Einstein\)
-* _**Get feedback on your challenge question**_ from the target audience \(policy makers?\) of your result. This gets you a buy-in from the beginning.
-* Know what the challenge should become at the end of the process: _**a paper? A blog series? A project?**_ Think big, start small.
+![](../.gitbook/assets/000.png)
 
-### **2. Set up a challenge**
+![](../.gitbook/assets/001.png)
 
-* Once you have a rough idea, get in touch with [policykitchen@foraus.ch](mailto:policykitchen@foraus.ch).
-* They will provide you with backend access and a _**proper on-boarding,**_ on how to use the platform.
-* Basically, you’ll need a challenge intro text and an image, clarity on the timeline and a selection of mechanism \(crowd, jury, none?\).
-* Below you will find _**a video tutorial**_ on _**"How to create a challenge on Policy Kitchen".**_ 
+![](../.gitbook/assets/002.png)
+
+![](../.gitbook/assets/003.png)
+
+![](../.gitbook/assets/004.png)
+
+![](../.gitbook/assets/005.png)
+
+![](../.gitbook/assets/006.png)
+
+![](../.gitbook/assets/007.png)
+
+If you want to know how to create a challenge on the platform of Policy Kitchen, take a look at this video.
 
 {% embed url="https://www.youtube.com/watch?v=AtsQvXyeeTY&t=133s" %}
-
-### **3. Plan workshops**
-
-* Workshops are used to seed ideas and users, foster community, and get visibility.
-* We suggest at least 2-3 workshops in different places.
-* You will find below a [Policy Kitchen workshop design](policy-kitchen.md#policy-kitchen-workshop-design-template), yet feel free to make your own.
-* _**Get experts and spaces**_ early to avoid rushing with invitations.
-* Target your _**core community**_ and _**external stakeholders**_ ****of the issue - the magic is in the mix, ideally vertically \(junior / senior\) and horizontally \(different perspectives\).
-* Workshops tend to need some _**budget.**_ Consider event sponsoring or project based [fundraising](policy-kitchen.md#how-about-the-fundraising-part). We can help, yet it is better to do a small thing than nothing at all.
-
-### **4. Engage the crowd**
-
-* Use your _**core community and main channels.**_
-* Also use the opportunity _**to grow your program**_ by targeting specific people and networks. Spend time identifying stakeholders and multipliers.
-* _**Physical workshops are key**_ ****to get people interested. Just posting a link may work, but don’t put all your eggs in this basket.
-
-### **5. Moderate the Platform**
-
-* You’ll need 2 or more people _**moderating the activity on the platform.**_ Welcome new participants, value new ideas, ask questions, give pointers to resources and people, discourage abuse. This role can be given to a junior with a witty mind and some basic knowledge about the issue. Time investment is about 1-2 hours per week over the course of your campaign.
-
-### **6. Follow-up with chosen ideas**
-
-* The result of the online process will likely be _**idea drafts,**_ not the ready products. Authors may need some guidance to finalize their work. We usually offer workshops where authors get feedback from experts and peers.
-* Your process may also involve an ‘in-house’ team consolidating the output. Make sure you acknowledge the contributors if you do that.
-
-### **7. Make noise**
-
-* Ideas are worthless if nobody hears them. If you _**have decent output,**_ make events around it, invite important people, go wild on social media, etc.
-
-\*This is flexible and experiments are always welcomed. Let us know your ideas!
 
 ## **Policy Kitchen Workshop Design Template**
 
