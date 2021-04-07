@@ -294,9 +294,9 @@ You can now _**use that same narrative**_ referring to Policy Kitchen when you d
 
 ## **Contact Information**
 
-**Project Lead:** Jonas Nakonz
+**Project Lead:** Eduardo Belinchón
 
-[jonas.nakonz@foraus.ch](mailto:jonas.nakonz@foraus.ch) 
+[eduardo.belinchion@foraus.ch](mailto:eduardo.belinchon@foraus.ch) 
 
 **Generic:**  [policykitchen@foraus.ch](mailto:policykitchen@foraus.ch)  
   
