@@ -11,7 +11,7 @@ _foraus_ secured funding over three years for improving the platform, building k
 
 Get a sense at [**www.policykitchen.com**](http://www.policykitchen.com)
 
-Policy Kitchen is supported by[: Engagement Migros](https://www.engagement-migros.ch/en/pioneers/policy-kitchen)
+Policy Kitchen is supported by[: Migros Pionierfonds](https://www.migros-pionierfonds.ch/de)
 
 ## **Why? - The Open Think Tank Network is more than the sum of its parts.**
 
